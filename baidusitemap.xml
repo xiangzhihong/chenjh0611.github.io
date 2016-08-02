@@ -239,31 +239,6 @@
 
     
   <url>
-    <loc>http://code.skyheng.com/2016/05/04/wxpay-scanpay-java-sdk/</loc>
-    <lastmod>2016-08-02T12:07:26.614Z</lastmod>
-    <data>
-        <display>
-        <title>【微信支付】“刷卡支付”、“被扫支付”开发说明</title>
-        <pubTime>2016-05-04T14:45:37.000Z</pubTime>
-        
-        <tag>微信支付</tag>
-         
-        <tag>刷卡支付</tag>
-         
-         
-           
-             
-              <breadCrumb title="微信支付" url="http://code.skyheng.com/categories/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98/"/>
-          
-             
-              <breadCrumb title="刷卡支付" url="http://code.skyheng.com/categories/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98/%E5%88%B7%E5%8D%A1%E6%94%AF%E4%BB%98/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://code.skyheng.com/2016/05/02/mysql-install-and-settings/</loc>
     <lastmod>2016-08-02T12:07:26.614Z</lastmod>
     <data>
@@ -282,6 +257,31 @@
           
              
               <breadCrumb title="Mysql" url="http://code.skyheng.com/categories/linux/Mysql/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/05/04/wxpay-scanpay-java-sdk/</loc>
+    <lastmod>2016-08-02T12:07:26.614Z</lastmod>
+    <data>
+        <display>
+        <title>【微信支付】“刷卡支付”、“被扫支付”开发说明</title>
+        <pubTime>2016-05-04T14:45:37.000Z</pubTime>
+        
+        <tag>微信支付</tag>
+         
+        <tag>刷卡支付</tag>
+         
+         
+           
+             
+              <breadCrumb title="微信支付" url="http://code.skyheng.com/categories/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98/"/>
+          
+             
+              <breadCrumb title="刷卡支付" url="http://code.skyheng.com/categories/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98/%E5%88%B7%E5%8D%A1%E6%94%AF%E4%BB%98/"/>
           
         </display>
     </data>
@@ -314,26 +314,6 @@
 
     
   <url>
-    <loc>http://code.skyheng.com/2016/08/02/common-hexo-commands/</loc>
-    <lastmod>2016-08-02T12:07:20.879Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo 最常用的几个命令</title>
-        <pubTime>2016-08-02T14:12:04.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="术业专攻" url="http://code.skyheng.com/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://code.skyheng.com/2016/05/09/tomcat-install-and-settings/</loc>
     <lastmod>2016-08-02T12:07:20.879Z</lastmod>
     <data>
@@ -357,6 +337,26 @@
           
              
               <breadCrumb title="Tomcat" url="http://code.skyheng.com/categories/linux/CentOS/Tomcat/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/08/02/common-hexo-commands/</loc>
+    <lastmod>2016-08-02T12:07:20.879Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo 最常用的几个命令</title>
+        <pubTime>2016-08-02T14:12:04.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="术业专攻" url="http://code.skyheng.com/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
           
         </display>
     </data>
