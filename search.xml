@@ -2025,12 +2025,6 @@ mount -t smbfs -o username=user,password=pass //WinClient/share /mnt/share mount
     </entry>
     
     <entry>
-      <title><![CDATA[分类 & 标签]]></title>
-      <url>http://code.skyheng.com/tags/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[关于我]]></title>
       <url>http://code.skyheng.com/about/index.html</url>
       <content type="html"><![CDATA[<p><style type="text/css"><br>    strong a {<br>        color: #747474;<br>    }<br>    .player {<br>        text-align: center;<br>        margin: .5em auto 0;<br>        width: 100%;<br>        max-width: 22em;<br>    }<br>    .player br {<br>        display: none;<br>    }<br>    .sign {<br>        text-align: right;<br>        font-style: italic;<br>    }</p>
@@ -2082,6 +2076,12 @@ mount -t smbfs -o username=user,password=pass //WinClient/share /mnt/share mount
 <ul class="ds-recent-visitors" data-num-items="30" data-avatar-size="56"></ul>
 
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[分类 & 标签]]></title>
+      <url>http://code.skyheng.com/tags/index.html</url>
+      <content type="html"></content>
     </entry>
     
   
