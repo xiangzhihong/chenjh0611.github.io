@@ -1353,41 +1353,6 @@ mount -t smbfs -o username=user,password=pass //WinClient/share /mnt/share mount
   </entry>
   
   <entry>
-    <title>SVN 密码破解，svn密码本地找回</title>
-    <link href="http://code.skyheng.com/2016/05/02/svn-password-find/"/>
-    <id>http://code.skyheng.com/2016/05/02/svn-password-find/</id>
-    <published>2016-05-02T15:10:48.000Z</published>
-    <updated>2016-08-02T12:07:29.755Z</updated>
-    
-    <content type="html">&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;SVN-&amp;#x5BC6;&amp;#x7801;&amp;#x7834;&amp;#x89E3;&amp;#xFF0C;svn&amp;#x5BC6;&amp;#x7801;&amp;#x672C;&amp;#x5730;&amp;#x627E;&amp;#x56DE;&quot;&gt;&lt;a href=&quot;#SVN-&amp;#x5BC6;&amp;#x7801;&amp;#x7834;&amp;#x89E3;&amp;#xFF0C;svn&amp;#x5BC6;&amp;#x7801;&amp;#x672C;&amp;#x5730;&amp;#x627E;&amp;#x56DE;&quot; class=&quot;headerlink&quot; title=&quot;SVN &amp;#x5BC6;&amp;#x7801;&amp;#x7834;&amp;#x89E3;&amp;#xFF0C;svn&amp;#x5BC6;&amp;#x7801;&amp;#x672C;&amp;#x5730;&amp;#x627E;&amp;#x56DE;&quot;&gt;&lt;/a&gt;SVN &amp;#x5BC6;&amp;#x7801;&amp;#x7834;&amp;#x89E3;&amp;#xFF0C;svn&amp;#x5BC6;&amp;#x7801;&amp;#x672C;&amp;#x5730;&amp;#x627E;&amp;#x56DE;&lt;/h2&gt;&lt;p&gt;svn &amp;#x5BC6;&amp;#x7801;&amp;#x88AB;&amp;#x4FDD;&amp;#x5B58;&amp;#x5728;&amp;#x672C;&amp;#x5730;&amp;#x6587;&amp;#x4EF6;&amp;#x4E2D;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;C:\Users\&amp;#x3010;your computer name&amp;#x3011;\AppData\Roaming\Subversion\auth\svn.simple&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#x6587;&amp;#x4EF6;&amp;#x4E0B;&amp;#x3002;&amp;#x52A0;&amp;#x5BC6;&amp;#x4FDD;&amp;#x5B58;&lt;/p&gt;
-&lt;p&gt;&amp;#x5230;&amp;#x8BE5;&amp;#x7F51;&amp;#x7AD9;&amp;#x4E0B;&amp;#x8F7D;&lt;a href=&quot;http://www.leapbeyond.com/ric/TSvnPD/TSvnPwd.exe&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Download exe (1.0.40)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#x5B98;&amp;#x7F51;&amp;#x5730;&amp;#x5740;&amp;#xFF1A; &lt;a href=&quot;http://www.leapbeyond.com/ric/TSvnPD/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.leapbeyond.com/ric/TSvnPD/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#x53CC;&amp;#x51FB;&amp;#x8FD0;&amp;#x884C;&amp;#x5373;&amp;#x53EF;&amp;#x3002;&lt;/p&gt;
-&lt;p&gt;  &lt;strong&gt;&amp;#x63D0;&amp;#x793A;&lt;/strong&gt;&lt;br&gt;  &amp;#x5982;&amp;#x679C;&amp;#x5730;&amp;#x5740;&amp;#x4E0D;&amp;#x53EF;&amp;#x4EE5;&amp;#x4E0B;&amp;#x8F7D;&amp;#x53EF;&amp;#x4EE5;&amp;#x9009;&amp;#x62E9;&amp;#x7F51;&amp;#x76D8;&amp;#x4E0B;&amp;#x8F7D;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;#x767E;&amp;#x5EA6;&amp;#x7F51;&amp;#x76D8;&amp;#x4E0B;&amp;#x8F7D;&amp;#x5730;&amp;#x5740;&amp;#xFF1A;&lt;a href=&quot;http://pan.baidu.com/s/1mhGBQ2W&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://pan.baidu.com/s/1mhGBQ2W&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;#x51E1;&amp;#x662F;&amp;#x4F60;&amp;#x7528;&amp;#x8FC7;&amp;#x7684;&amp;#x670D;&amp;#x52A1;&amp;#x5668;&amp;#x7684;&amp;#x5BC6;&amp;#x7801;&amp;#x3002;&amp;#x90FD;&amp;#x53EF;&amp;#x4EE5;&amp;#x88AB;&amp;#x7FFB;&amp;#x8BD1;&amp;#x56DE;&amp;#x6765;&amp;#x3002;&lt;/p&gt;
-&lt;p&gt;&amp;#x539F;&amp;#x7406;&amp;#xFF1A;&amp;#x89C1;&amp;#x5B98;&amp;#x7F51; How it Works&amp;#x3002;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      本文将讲解SVN 密码破解，svn密码本地找回
-    
-    </summary>
-    
-      <category term="SVN" scheme="http://code.skyheng.com/categories/SVN/"/>
-    
-    
-      <category term="SVN" scheme="http://code.skyheng.com/tags/SVN/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Subversion 1.8 安装</title>
     <link href="http://code.skyheng.com/2016/05/02/svn-install-and-settings/"/>
     <id>http://code.skyheng.com/2016/05/02/svn-install-and-settings/</id>
@@ -1651,6 +1616,41 @@ mount -t smbfs -o username=user,password=pass //WinClient/share /mnt/share mount
     <summary type="html">
     
       本文将讲解Subversion 1.8 安装
+    
+    </summary>
+    
+      <category term="SVN" scheme="http://code.skyheng.com/categories/SVN/"/>
+    
+    
+      <category term="SVN" scheme="http://code.skyheng.com/tags/SVN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SVN 密码破解，svn密码本地找回</title>
+    <link href="http://code.skyheng.com/2016/05/02/svn-password-find/"/>
+    <id>http://code.skyheng.com/2016/05/02/svn-password-find/</id>
+    <published>2016-05-02T15:10:48.000Z</published>
+    <updated>2016-08-02T12:07:29.755Z</updated>
+    
+    <content type="html">&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;SVN-&amp;#x5BC6;&amp;#x7801;&amp;#x7834;&amp;#x89E3;&amp;#xFF0C;svn&amp;#x5BC6;&amp;#x7801;&amp;#x672C;&amp;#x5730;&amp;#x627E;&amp;#x56DE;&quot;&gt;&lt;a href=&quot;#SVN-&amp;#x5BC6;&amp;#x7801;&amp;#x7834;&amp;#x89E3;&amp;#xFF0C;svn&amp;#x5BC6;&amp;#x7801;&amp;#x672C;&amp;#x5730;&amp;#x627E;&amp;#x56DE;&quot; class=&quot;headerlink&quot; title=&quot;SVN &amp;#x5BC6;&amp;#x7801;&amp;#x7834;&amp;#x89E3;&amp;#xFF0C;svn&amp;#x5BC6;&amp;#x7801;&amp;#x672C;&amp;#x5730;&amp;#x627E;&amp;#x56DE;&quot;&gt;&lt;/a&gt;SVN &amp;#x5BC6;&amp;#x7801;&amp;#x7834;&amp;#x89E3;&amp;#xFF0C;svn&amp;#x5BC6;&amp;#x7801;&amp;#x672C;&amp;#x5730;&amp;#x627E;&amp;#x56DE;&lt;/h2&gt;&lt;p&gt;svn &amp;#x5BC6;&amp;#x7801;&amp;#x88AB;&amp;#x4FDD;&amp;#x5B58;&amp;#x5728;&amp;#x672C;&amp;#x5730;&amp;#x6587;&amp;#x4EF6;&amp;#x4E2D;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;C:\Users\&amp;#x3010;your computer name&amp;#x3011;\AppData\Roaming\Subversion\auth\svn.simple&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#x6587;&amp;#x4EF6;&amp;#x4E0B;&amp;#x3002;&amp;#x52A0;&amp;#x5BC6;&amp;#x4FDD;&amp;#x5B58;&lt;/p&gt;
+&lt;p&gt;&amp;#x5230;&amp;#x8BE5;&amp;#x7F51;&amp;#x7AD9;&amp;#x4E0B;&amp;#x8F7D;&lt;a href=&quot;http://www.leapbeyond.com/ric/TSvnPD/TSvnPwd.exe&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Download exe (1.0.40)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#x5B98;&amp;#x7F51;&amp;#x5730;&amp;#x5740;&amp;#xFF1A; &lt;a href=&quot;http://www.leapbeyond.com/ric/TSvnPD/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.leapbeyond.com/ric/TSvnPD/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#x53CC;&amp;#x51FB;&amp;#x8FD0;&amp;#x884C;&amp;#x5373;&amp;#x53EF;&amp;#x3002;&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;&amp;#x63D0;&amp;#x793A;&lt;/strong&gt;&lt;br&gt;  &amp;#x5982;&amp;#x679C;&amp;#x5730;&amp;#x5740;&amp;#x4E0D;&amp;#x53EF;&amp;#x4EE5;&amp;#x4E0B;&amp;#x8F7D;&amp;#x53EF;&amp;#x4EE5;&amp;#x9009;&amp;#x62E9;&amp;#x7F51;&amp;#x76D8;&amp;#x4E0B;&amp;#x8F7D;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;#x767E;&amp;#x5EA6;&amp;#x7F51;&amp;#x76D8;&amp;#x4E0B;&amp;#x8F7D;&amp;#x5730;&amp;#x5740;&amp;#xFF1A;&lt;a href=&quot;http://pan.baidu.com/s/1mhGBQ2W&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://pan.baidu.com/s/1mhGBQ2W&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;#x51E1;&amp;#x662F;&amp;#x4F60;&amp;#x7528;&amp;#x8FC7;&amp;#x7684;&amp;#x670D;&amp;#x52A1;&amp;#x5668;&amp;#x7684;&amp;#x5BC6;&amp;#x7801;&amp;#x3002;&amp;#x90FD;&amp;#x53EF;&amp;#x4EE5;&amp;#x88AB;&amp;#x7FFB;&amp;#x8BD1;&amp;#x56DE;&amp;#x6765;&amp;#x3002;&lt;/p&gt;
+&lt;p&gt;&amp;#x539F;&amp;#x7406;&amp;#xFF1A;&amp;#x89C1;&amp;#x5B98;&amp;#x7F51; How it Works&amp;#x3002;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      本文将讲解SVN 密码破解，svn密码本地找回
     
     </summary>
     
