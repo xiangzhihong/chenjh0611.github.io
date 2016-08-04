@@ -2154,8 +2154,6 @@ mount -t smbfs -o username=user,password=pass //WinClient/share /mnt/share mount
       <url>http://code.skyheng.com/2016/04/17/nexus-install-and-settings/</url>
       <content type="html"><![CDATA[<a id="more"></a>
 <h2 id="Nexus-&#x5B89;&#x88C5;"><a href="#Nexus-&#x5B89;&#x88C5;" class="headerlink" title="Nexus &#x5B89;&#x88C5;"></a>Nexus &#x5B89;&#x88C5;</h2><ul>
-<li><p>Nexus &#x5B89;&#x88C5;</p>
-<ul>
 <li>&#x5B98;&#x7F51;&#xFF1A;<a href="http://www.sonatype.org/nexus/" target="_blank" rel="external">http://www.sonatype.org/nexus/</a></li>
 <li>&#x5B98;&#x7F51;&#x4E0B;&#x8F7D;&#xFF1A;<a href="http://www.sonatype.org/nexus/archived/" target="_blank" rel="external">http://www.sonatype.org/nexus/archived/</a></li>
 <li>&#x6B64;&#x65F6;&#xFF08;20160417&#xFF09; Nexus &#x6700;&#x65B0;&#x7248;&#x672C;&#x4E3A;&#xFF1A;<strong>nexus-2.12.0-01-bundle</strong></li>
@@ -2208,8 +2206,6 @@ mount -t smbfs -o username=user,password=pass //WinClient/share /mnt/share mount
 <li>&#x767B;&#x5F55;&#x8D26;&#x53F7;&#x5BC6;&#x7801;&#xFF1A;<ul>
 <li>&#x8D26;&#x53F7;&#x5BC6;&#x7801;&#xFF1A;<strong>admin</strong></li>
 <li>&#x5BC6;&#x7801;&#xFF1A;<strong>admin123</strong></li>
-</ul>
-</li>
 </ul>
 </li>
 </ul>

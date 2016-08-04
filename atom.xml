@@ -2480,12 +2480,10 @@ mount -t smbfs -o username=user,password=pass //WinClient/share /mnt/share mount
     <link href="http://code.skyheng.com/2016/04/17/nexus-install-and-settings/"/>
     <id>http://code.skyheng.com/2016/04/17/nexus-install-and-settings/</id>
     <published>2016-04-17T11:37:27.000Z</published>
-    <updated>2016-08-04T15:09:45.904Z</updated>
+    <updated>2016-08-04T15:17:03.813Z</updated>
     
     <content type="html">&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;Nexus-&amp;#x5B89;&amp;#x88C5;&quot;&gt;&lt;a href=&quot;#Nexus-&amp;#x5B89;&amp;#x88C5;&quot; class=&quot;headerlink&quot; title=&quot;Nexus &amp;#x5B89;&amp;#x88C5;&quot;&gt;&lt;/a&gt;Nexus &amp;#x5B89;&amp;#x88C5;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Nexus &amp;#x5B89;&amp;#x88C5;&lt;/p&gt;
-&lt;ul&gt;
 &lt;li&gt;&amp;#x5B98;&amp;#x7F51;&amp;#xFF1A;&lt;a href=&quot;http://www.sonatype.org/nexus/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.sonatype.org/nexus/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&amp;#x5B98;&amp;#x7F51;&amp;#x4E0B;&amp;#x8F7D;&amp;#xFF1A;&lt;a href=&quot;http://www.sonatype.org/nexus/archived/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.sonatype.org/nexus/archived/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&amp;#x6B64;&amp;#x65F6;&amp;#xFF08;20160417&amp;#xFF09; Nexus &amp;#x6700;&amp;#x65B0;&amp;#x7248;&amp;#x672C;&amp;#x4E3A;&amp;#xFF1A;&lt;strong&gt;nexus-2.12.0-01-bundle&lt;/strong&gt;&lt;/li&gt;
@@ -2538,8 +2536,6 @@ mount -t smbfs -o username=user,password=pass //WinClient/share /mnt/share mount
 &lt;li&gt;&amp;#x767B;&amp;#x5F55;&amp;#x8D26;&amp;#x53F7;&amp;#x5BC6;&amp;#x7801;&amp;#xFF1A;&lt;ul&gt;
 &lt;li&gt;&amp;#x8D26;&amp;#x53F7;&amp;#x5BC6;&amp;#x7801;&amp;#xFF1A;&lt;strong&gt;admin&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&amp;#x5BC6;&amp;#x7801;&amp;#xFF1A;&lt;strong&gt;admin123&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -2830,11 +2826,11 @@ mount -t smbfs -o username=user,password=pass //WinClient/share /mnt/share mount
       <category term="Java" scheme="http://code.skyheng.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/Java/"/>
     
     
+      <category term="学习方法" scheme="http://code.skyheng.com/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
+    
       <category term="Maven" scheme="http://code.skyheng.com/tags/Maven/"/>
     
       <category term="Java" scheme="http://code.skyheng.com/tags/Java/"/>
-    
-      <category term="学习方法" scheme="http://code.skyheng.com/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
     
   </entry>
   

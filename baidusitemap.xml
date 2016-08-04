@@ -4,34 +4,8 @@
 
     
   <url>
-    <loc>http://code.skyheng.com/2016/08/03/github-build-hexo-blog-install/</loc>
-    <lastmod>2016-08-04T15:12:49.350Z</lastmod>
-    <data>
-        <display>
-        <title>使用Github搭建Hexo技术博客--安装教程</title>
-        <pubTime>2016-08-03T02:46:18.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-        <tag>Git</tag>
-         
-        <tag>Github</tag>
-         
-        <tag>Node.js</tag>
-         
-         
-           
-             
-              <breadCrumb title="Hexo" url="http://code.skyheng.com/categories/Hexo/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://code.skyheng.com/2016/04/17/nexus-install-and-settings/</loc>
-    <lastmod>2016-08-04T15:09:45.904Z</lastmod>
+    <lastmod>2016-08-04T15:17:03.813Z</lastmod>
     <data>
         <display>
         <title>Nexus 在linux下的安装和配置（基于 阿里云服务器CentOS 6.5）</title>
@@ -53,6 +27,32 @@
           
              
               <breadCrumb title="Nexus" url="http://code.skyheng.com/categories/linux/CentOS/Nexus/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/08/03/github-build-hexo-blog-install/</loc>
+    <lastmod>2016-08-04T15:12:49.350Z</lastmod>
+    <data>
+        <display>
+        <title>使用Github搭建Hexo技术博客--安装教程</title>
+        <pubTime>2016-08-03T02:46:18.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Git</tag>
+         
+        <tag>Github</tag>
+         
+        <tag>Node.js</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://code.skyheng.com/categories/Hexo/"/>
           
         </display>
     </data>
@@ -91,11 +91,11 @@
         <title>我的学习、归纳方法（以学习 Maven 为例）</title>
         <pubTime>2016-03-07T12:50:25.000Z</pubTime>
         
+        <tag>学习方法</tag>
+         
         <tag>Maven</tag>
          
         <tag>Java</tag>
-         
-        <tag>学习方法</tag>
          
          
            
