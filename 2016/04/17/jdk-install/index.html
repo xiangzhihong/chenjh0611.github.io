@@ -87,6 +87,16 @@
 
 
 
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?d195b745077c1dbc09dacf43876b8f07";
+            var s = document.getElementsByTagName("script")[0]; 
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
 
 </head>
 <body>
@@ -337,7 +347,7 @@
 <ul>
 <li>&#x6211;&#x67E5;&#x8BE2;&#x51FA;&#x6765;&#x7684;&#x7ED3;&#x679C;&#x5982;&#x4E0B;&#xFF1A;</li>
 </ul>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">java-1.6.0-openjdk-1.6.0.38-1.13.10.0.el6_7.x86_64</span><br><span class="line">java-1.7.0-openjdk-1.7.0.95-2.6.4.0.el6_7.x86_64</span><br><span class="line">tzdata-java-2015g-2.el6.noarch</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">java-1.6.0-openjdk-1.6.0.38-1.13.10.0.el6_7.x86_64</div><div class="line">java-1.7.0-openjdk-1.7.0.95-2.6.4.0.el6_7.x86_64</div><div class="line">tzdata-java-2015g-2.el6.noarch</div></pre></td></tr></table></figure>
 <ul>
 <li>&#x5378;&#x8F7D;&#x4E0A;&#x9762;&#x4E09;&#x4E2A;&#x6587;&#x4EF6;&#xFF08;<code>--nodeps</code> &#x7684;&#x4F5C;&#x7528;&#xFF1A;&#x5FFD;&#x7565;&#x4F9D;&#x8D56;&#x7684;&#x68C0;&#x67E5;&#xFF09;&#xFF1A;</li>
 <li><code>sudo rpm -e --nodeps java-1.6.0-openjdk-1.6.0.38-1.13.10.0.el6_7.x86_64</code></li>
@@ -359,7 +369,7 @@
 <ul>
 <li>&#x7F16;&#x8F91;&#x914D;&#x7F6E;&#x6587;&#x4EF6;&#xFF1A;<code>sudo vim /etc/profile</code></li>
 <li><p>&#x5728;&#x8BE5;&#x6587;&#x4EF6;&#x7684;&#x6700;&#x5C3E;&#x5DF4;&#xFF0C;&#x6DFB;&#x52A0;&#x4E0B;&#x9762;&#x5185;&#x5BB9;&#xFF1A;</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">JAVA_HOME=/usr/program/jdk1.8.0_72</span><br><span class="line">JRE_HOME=$JAVA_HOME/jre</span><br><span class="line">PATH=$PATH:$JAVA_HOME/bin</span><br><span class="line">CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar</span><br><span class="line">export JAVA_HOME</span><br><span class="line">export JRE_HOME</span><br><span class="line">export PATH</span><br><span class="line">export CLASSPATH</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">JAVA_HOME=/usr/program/jdk1.8.0_72</div><div class="line">JRE_HOME=$JAVA_HOME/jre</div><div class="line">PATH=$PATH:$JAVA_HOME/bin</div><div class="line">CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar</div><div class="line">export JAVA_HOME</div><div class="line">export JRE_HOME</div><div class="line">export PATH</div><div class="line">export CLASSPATH</div></pre></td></tr></table></figure>
 </li>
 <li><p>&#x6267;&#x884C;&#x547D;&#x4EE4;&#xFF0C;&#x5237;&#x65B0;&#x8BE5;&#x914D;&#x7F6E;&#xFF08;&#x5FC5;&#x5907;&#x64CD;&#x4F5C;&#xFF09;&#xFF1A;<code>source /etc/profile</code></p>
 </li>
@@ -408,8 +418,8 @@
     <nav id="article-nav">
         
             <div id="article-nav-newer" class="article-nav-title">
-                <a href="/2016/05/02/maven-install-and-settings/">
-                    Maven 安装和配置
+                <a href="/2016/05/02/mysql-install-and-settings/">
+                    Mysql 安装和配置
                 </a>
             </div>
         
@@ -498,7 +508,7 @@
 
     <div class="scroll" id="post-nav-button">
         
-            <a href="/2016/05/02/maven-install-and-settings/" title="上一篇: Maven 安装和配置">
+            <a href="/2016/05/02/mysql-install-and-settings/" title="上一篇: Mysql 安装和配置">
                 <i class="fa fa-angle-left"></i>
             </a>
         
@@ -512,7 +522,7 @@
         
     </div>
 
-    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2016/08/03/excel-markdown-table/">用 Excel 生成和管理 Markdown 表格</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/08/02/common-hexo-commands/">Hexo 最常用的几个命令</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/08/01/git-cheat-sheet/">GIT的常用操作命令</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/08/01/linux-commonly-used-ommands/">Linux常用命令大全</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/07/21/improve-efficiency-database-query/">在一个千万级的数据库查寻中，如何提高查询效率？</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/16/vmware-set-centos-static-ip/">VMware中CentOS设置静态IP</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/09/tomcat-install-and-settings/">Tomcat 8 安装和配置、优化</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/04/wxpay-scanpay-java-sdk-demo/">【微信支付】“刷卡支付”、“被扫支付”开发JavaDemo</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/04/wxpay-scanpay-java-sdk/">【微信支付】“刷卡支付”、“被扫支付”开发说明</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/svn-install-and-settings/">Subversion 1.8 安装</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/svn-password-find/">SVN 密码破解，svn密码本地找回</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/mysql-install-and-settings/">Mysql 安装和配置</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/maven-install-and-settings/">Maven 安装和配置</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/04/17/jdk-install/">在linux下的JDK 安装和配置（基于 阿里云服务器CentOS 6.5）</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/04/17/nexus-install-and-settings/">Nexus 在linux下的安装和配置（基于 阿里云服务器CentOS 6.5）</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/03/07/my-learning-way/">我的学习、归纳方法（以学习 Maven 为例）</a></li><li class="post-list-item"><a class="post-list-link" href="/2015/05/01/github-build-hexo-blog-intensify/">使用Github搭建Hexo技术博客--增强教程</a></li><li class="post-list-item"><a class="post-list-link" href="/2015/05/01/github-build-hexo-blog-install/">使用Github搭建Hexo技术博客--安装教程</a></li><li class="post-list-item"><a class="post-list-link" href="/2015/03/09/maven-related-knowledge-topics/">构建工具-Maven-相关知识-整理专题</a></li><li class="post-list-item"><a class="post-list-link" href="/2014/05/24/overloading-and-overriding-difference/">JAVA中重写和重载区别</a></li></ul>
+    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2016/08/03/excel-markdown-table/">用 Excel 生成和管理 Markdown 表格</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/08/02/common-hexo-commands/">Hexo 最常用的几个命令</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/08/01/git-cheat-sheet/">GIT的常用操作命令</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/08/01/linux-commonly-used-ommands/">Linux常用命令大全</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/07/21/improve-efficiency-database-query/">在一个千万级的数据库查寻中，如何提高查询效率？</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/16/vmware-set-centos-static-ip/">VMware中CentOS设置静态IP</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/09/tomcat-install-and-settings/">Tomcat 8 安装和配置、优化</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/04/wxpay-scanpay-java-sdk-demo/">【微信支付】“刷卡支付”、“被扫支付”开发JavaDemo</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/04/wxpay-scanpay-java-sdk/">【微信支付】“刷卡支付”、“被扫支付”开发说明</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/svn-password-find/">SVN 密码破解，svn密码本地找回</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/svn-install-and-settings/">Subversion 1.8 安装</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/maven-install-and-settings/">Maven 安装和配置</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/mysql-install-and-settings/">Mysql 安装和配置</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/04/17/jdk-install/">在linux下的JDK 安装和配置（基于 阿里云服务器CentOS 6.5）</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/04/17/nexus-install-and-settings/">Nexus 在linux下的安装和配置（基于 阿里云服务器CentOS 6.5）</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/03/07/my-learning-way/">我的学习、归纳方法（以学习 Maven 为例）</a></li><li class="post-list-item"><a class="post-list-link" href="/2015/05/01/github-build-hexo-blog-intensify/">使用Github搭建Hexo技术博客--增强教程</a></li><li class="post-list-item"><a class="post-list-link" href="/2015/05/01/github-build-hexo-blog-install/">使用Github搭建Hexo技术博客--安装教程</a></li><li class="post-list-item"><a class="post-list-link" href="/2015/03/09/maven-related-knowledge-topics/">构建工具-Maven-相关知识-整理专题</a></li><li class="post-list-item"><a class="post-list-link" href="/2014/05/24/overloading-and-overriding-difference/">JAVA中重写和重载区别</a></li></ul>
 
 
 

@@ -87,6 +87,16 @@
 
 
 
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?d195b745077c1dbc09dacf43876b8f07";
+            var s = document.getElementsByTagName("script")[0]; 
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
 
 </head>
 <body>
@@ -395,7 +405,7 @@
 <h2 id="Mysql-&#x914D;&#x7F6E;"><a href="#Mysql-&#x914D;&#x7F6E;" class="headerlink" title="Mysql &#x914D;&#x7F6E;"></a>Mysql &#x914D;&#x7F6E;</h2><ul>
 <li>&#x5B98;&#x7F51;&#x914D;&#x7F6E;&#x53C2;&#x6570;&#x89E3;&#x91CA;&#xFF1A;<a href="http://dev.mysql.com/doc/refman/5.6/en/mysqld-option-tables.html" target="_blank" rel="external">http://dev.mysql.com/doc/refman/5.6/en/mysqld-option-tables.html</a></li>
 <li><p>&#x627E;&#x4E00;&#x4E0B;&#x5F53;&#x524D;&#x7CFB;&#x7EDF;&#x4E2D;&#x6709;&#x591A;&#x5C11;&#x4E2A; my.cnf &#x6587;&#x4EF6;&#xFF1A;<code>find / -name &quot;my.cnf&quot;</code>&#xFF0C;&#x6211;&#x67E5;&#x5230;&#x7684;&#x7ED3;&#x679C;&#xFF1A;</p>
-  <figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">/etc/my.cnf</span><br><span class="line">   /usr/program/mysql/my.cnf</span><br><span class="line">   /usr/program/mysql/mysql-test/suite/ndb/my.cnf</span><br><span class="line">   /usr/program/mysql/mysql-test/suite/ndb_big/my.cnf</span><br><span class="line">   .............</span><br><span class="line">   /usr/program/mysql/mysql-test/suite/ndb_rpl/my.cnf</span><br></pre></td></tr></table></figure>
+  <figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">/etc/my.cnf</div><div class="line">   /usr/program/mysql/my.cnf</div><div class="line">   /usr/program/mysql/mysql-test/suite/ndb/my.cnf</div><div class="line">   /usr/program/mysql/mysql-test/suite/ndb_big/my.cnf</div><div class="line">   .............</div><div class="line">   /usr/program/mysql/mysql-test/suite/ndb_rpl/my.cnf</div></pre></td></tr></table></figure>
 <ul>
 <li>&#x4FDD;&#x7559; <strong>/etc/my.cnf</strong> &#x548C; <strong>/usr/program/mysql/mysql-test/</strong> &#x76EE;&#x5F55;&#x4E0B;&#x914D;&#x7F6E;&#x6587;&#x4EF6;&#xFF0C;&#x5176;&#x4ED6;&#x5220;&#x9664;&#x6389;&#x3002;</li>
 </ul>
@@ -441,7 +451,7 @@
 </ul>
 </li>
 <li><p>&#x8BBE;&#x7F6E;&#x6388;&#x6743;&#x7528;&#x6237; slave01 &#x4F7F;&#x7528; 123456 &#x5BC6;&#x7801;&#x767B;&#x5F55;&#x4E3B;&#x5E93;&#xFF0C;&#x8FD9;&#x91CC; @ &#x540E;&#x7684; IP &#x4E3A;&#x4ECE;&#x5E93;&#x673A;&#x5B50;&#x7684; IP &#x5730;&#x5740;&#xFF0C;&#x5982;&#x679C;&#x4ECE;&#x5E93;&#x7684;&#x673A;&#x5B50;&#x6709;&#x591A;&#x4E2A;&#xFF0C;&#x6211;&#x4EEC;&#x9700;&#x8981;&#x591A;&#x4E2A;&#x8FD9;&#x4E2A; SQL &#x8BED;&#x53E5;&#x3002;</p>
-<figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">grant</span> <span class="keyword">replication</span> <span class="keyword">slave</span> <span class="keyword">on</span> *.* <span class="keyword">to</span> <span class="string">&apos;slave01&apos;</span>@<span class="string">&apos;192.168.1.135&apos;</span> <span class="keyword">identified</span> <span class="keyword">by</span> <span class="string">&apos;123456&apos;</span>;</span><br><span class="line"><span class="keyword">flush</span> <span class="keyword">privileges</span>;</span><br></pre></td></tr></table></figure>
+<figure class="highlight sql"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">grant</span> <span class="keyword">replication</span> <span class="keyword">slave</span> <span class="keyword">on</span> *.* <span class="keyword">to</span> <span class="string">&apos;slave01&apos;</span>@<span class="string">&apos;192.168.1.135&apos;</span> <span class="keyword">identified</span> <span class="keyword">by</span> <span class="string">&apos;123456&apos;</span>;</div><div class="line"><span class="keyword">flush</span> <span class="keyword">privileges</span>;</div></pre></td></tr></table></figure>
 </li>
 </ul>
 </li>
@@ -461,7 +471,7 @@
 <li>&#x4FEE;&#x6539;&#x914D;&#x7F6E;&#x6587;&#x4EF6;&#xFF1A;<code>vim /etc/my.cnf</code>&#xFF0C;&#x628A; server-id &#x6539;&#x4E3A;&#x8DDF;&#x4E3B;&#x5E93;&#x4E0D;&#x4E00;&#x6837;</li>
 <li>&#x5728;&#x8FDB;&#x5165; MySQL &#x7684;&#x547D;&#x4EE4;&#x884C;&#x72B6;&#x6001;&#x4E0B;&#xFF0C;&#x8F93;&#x5165;&#x4E0B;&#x9762; SQL&#xFF1A;</li>
 </ul>
-<figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">CHANGE MASTER TO</span><br><span class="line">master_host=&apos;192.168.1.200&apos;,</span><br><span class="line">master_user=&apos;slave01&apos;,</span><br><span class="line">master_password=&apos;123456&apos;,</span><br><span class="line">master_port=3306,</span><br><span class="line">master_log_file=&apos;mysql3306-bin.000006&apos;,&gt;&gt;&gt;&#x8FD9;&#x4E2A;&#x503C;&#x590D;&#x5236;&#x521A;&#x521A;&#x8BA9;&#x4F60;&#x8BB0;&#x5F55;&#x7684;&#x503C;</span><br><span class="line">master_log_pos=1120;&gt;&gt;&gt;&#x8FD9;&#x4E2A;&#x503C;&#x590D;&#x5236;&#x521A;&#x521A;&#x8BA9;&#x4F60;&#x8BB0;&#x5F55;&#x7684;&#x503C;</span><br></pre></td></tr></table></figure>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">CHANGE MASTER TO</div><div class="line">master_host=&apos;192.168.1.200&apos;,</div><div class="line">master_user=&apos;slave01&apos;,</div><div class="line">master_password=&apos;123456&apos;,</div><div class="line">master_port=3306,</div><div class="line">master_log_file=&apos;mysql3306-bin.000006&apos;,&gt;&gt;&gt;&#x8FD9;&#x4E2A;&#x503C;&#x590D;&#x5236;&#x521A;&#x521A;&#x8BA9;&#x4F60;&#x8BB0;&#x5F55;&#x7684;&#x503C;</div><div class="line">master_log_pos=1120;&gt;&gt;&gt;&#x8FD9;&#x4E2A;&#x503C;&#x590D;&#x5236;&#x521A;&#x521A;&#x8BA9;&#x4F60;&#x8BB0;&#x5F55;&#x7684;&#x503C;</div></pre></td></tr></table></figure>
 <ul>
 <li>&#x6267;&#x884C;&#x8BE5; SQL &#x8BED;&#x53E5;&#xFF0C;&#x542F;&#x52A8; slave &#x540C;&#x6B65;&#xFF1A;<code>START SLAVE;</code></li>
 <li>&#x6267;&#x884C;&#x8BE5; SQL &#x8BED;&#x53E5;&#xFF0C;&#x67E5;&#x770B;&#x4ECE;&#x5E93;&#x673A;&#x5B50;&#x540C;&#x6B65;&#x72B6;&#x6001;&#xFF1A;<code>SHOW SLAVE STATUS;</code></li>
@@ -508,15 +518,15 @@
     <nav id="article-nav">
         
             <div id="article-nav-newer" class="article-nav-title">
-                <a href="/2016/05/02/svn-password-find/">
-                    SVN 密码破解，svn密码本地找回
+                <a href="/2016/05/02/maven-install-and-settings/">
+                    Maven 安装和配置
                 </a>
             </div>
         
         
             <div id="article-nav-older" class="article-nav-title">
-                <a href="/2016/05/02/maven-install-and-settings/">
-                    Maven 安装和配置
+                <a href="/2016/04/17/jdk-install/">
+                    在linux下的JDK 安装和配置（基于 阿里云服务器CentOS 6.5）
                 </a>
             </div>
         
@@ -598,7 +608,7 @@
 
     <div class="scroll" id="post-nav-button">
         
-            <a href="/2016/05/02/svn-password-find/" title="上一篇: SVN 密码破解，svn密码本地找回">
+            <a href="/2016/05/02/maven-install-and-settings/" title="上一篇: Maven 安装和配置">
                 <i class="fa fa-angle-left"></i>
             </a>
         
@@ -606,13 +616,13 @@
         <a title="文章列表"><i class="fa fa-bars"></i><i class="fa fa-times"></i></a>
 
         
-            <a href="/2016/05/02/maven-install-and-settings/" title="下一篇: Maven 安装和配置">
+            <a href="/2016/04/17/jdk-install/" title="下一篇: 在linux下的JDK 安装和配置（基于 阿里云服务器CentOS 6.5）">
                 <i class="fa fa-angle-right"></i>
             </a>
         
     </div>
 
-    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2016/08/03/excel-markdown-table/">用 Excel 生成和管理 Markdown 表格</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/08/02/common-hexo-commands/">Hexo 最常用的几个命令</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/08/01/git-cheat-sheet/">GIT的常用操作命令</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/08/01/linux-commonly-used-ommands/">Linux常用命令大全</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/07/21/improve-efficiency-database-query/">在一个千万级的数据库查寻中，如何提高查询效率？</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/16/vmware-set-centos-static-ip/">VMware中CentOS设置静态IP</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/09/tomcat-install-and-settings/">Tomcat 8 安装和配置、优化</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/04/wxpay-scanpay-java-sdk-demo/">【微信支付】“刷卡支付”、“被扫支付”开发JavaDemo</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/04/wxpay-scanpay-java-sdk/">【微信支付】“刷卡支付”、“被扫支付”开发说明</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/svn-install-and-settings/">Subversion 1.8 安装</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/svn-password-find/">SVN 密码破解，svn密码本地找回</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/mysql-install-and-settings/">Mysql 安装和配置</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/maven-install-and-settings/">Maven 安装和配置</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/04/17/jdk-install/">在linux下的JDK 安装和配置（基于 阿里云服务器CentOS 6.5）</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/04/17/nexus-install-and-settings/">Nexus 在linux下的安装和配置（基于 阿里云服务器CentOS 6.5）</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/03/07/my-learning-way/">我的学习、归纳方法（以学习 Maven 为例）</a></li><li class="post-list-item"><a class="post-list-link" href="/2015/05/01/github-build-hexo-blog-intensify/">使用Github搭建Hexo技术博客--增强教程</a></li><li class="post-list-item"><a class="post-list-link" href="/2015/05/01/github-build-hexo-blog-install/">使用Github搭建Hexo技术博客--安装教程</a></li><li class="post-list-item"><a class="post-list-link" href="/2015/03/09/maven-related-knowledge-topics/">构建工具-Maven-相关知识-整理专题</a></li><li class="post-list-item"><a class="post-list-link" href="/2014/05/24/overloading-and-overriding-difference/">JAVA中重写和重载区别</a></li></ul>
+    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2016/08/03/excel-markdown-table/">用 Excel 生成和管理 Markdown 表格</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/08/02/common-hexo-commands/">Hexo 最常用的几个命令</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/08/01/git-cheat-sheet/">GIT的常用操作命令</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/08/01/linux-commonly-used-ommands/">Linux常用命令大全</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/07/21/improve-efficiency-database-query/">在一个千万级的数据库查寻中，如何提高查询效率？</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/16/vmware-set-centos-static-ip/">VMware中CentOS设置静态IP</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/09/tomcat-install-and-settings/">Tomcat 8 安装和配置、优化</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/04/wxpay-scanpay-java-sdk-demo/">【微信支付】“刷卡支付”、“被扫支付”开发JavaDemo</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/04/wxpay-scanpay-java-sdk/">【微信支付】“刷卡支付”、“被扫支付”开发说明</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/svn-password-find/">SVN 密码破解，svn密码本地找回</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/svn-install-and-settings/">Subversion 1.8 安装</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/maven-install-and-settings/">Maven 安装和配置</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/05/02/mysql-install-and-settings/">Mysql 安装和配置</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/04/17/jdk-install/">在linux下的JDK 安装和配置（基于 阿里云服务器CentOS 6.5）</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/04/17/nexus-install-and-settings/">Nexus 在linux下的安装和配置（基于 阿里云服务器CentOS 6.5）</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/03/07/my-learning-way/">我的学习、归纳方法（以学习 Maven 为例）</a></li><li class="post-list-item"><a class="post-list-link" href="/2015/05/01/github-build-hexo-blog-intensify/">使用Github搭建Hexo技术博客--增强教程</a></li><li class="post-list-item"><a class="post-list-link" href="/2015/05/01/github-build-hexo-blog-install/">使用Github搭建Hexo技术博客--安装教程</a></li><li class="post-list-item"><a class="post-list-link" href="/2015/03/09/maven-related-knowledge-topics/">构建工具-Maven-相关知识-整理专题</a></li><li class="post-list-item"><a class="post-list-link" href="/2014/05/24/overloading-and-overriding-difference/">JAVA中重写和重载区别</a></li></ul>
 
 
 
