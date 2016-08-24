@@ -2030,9 +2030,9 @@ mount -t smbfs -o username=user,password=pass //WinClient/share /mnt/share mount
       <category term="Maven" scheme="http://code.skyheng.com/categories/linux/Maven/"/>
     
     
-      <category term="Maven" scheme="http://code.skyheng.com/tags/Maven/"/>
-    
       <category term="linux" scheme="http://code.skyheng.com/tags/linux/"/>
+    
+      <category term="Maven" scheme="http://code.skyheng.com/tags/Maven/"/>
     
   </entry>
   
