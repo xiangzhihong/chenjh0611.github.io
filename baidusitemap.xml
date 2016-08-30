@@ -4,11 +4,61 @@
 
     
   <url>
-    <loc>http://code.skyheng.com/2016/08/25/eclipse-install-jrebel/</loc>
-    <lastmod>2016-08-26T16:17:03.885Z</lastmod>
+    <loc>http://code.skyheng.com/2016/08/29/eclipse-common-plugin/</loc>
+    <lastmod>2016-08-30T16:49:38.296Z</lastmod>
     <data>
         <display>
-        <title>eclipse安装JRebel6.4.3热部署插件教程</title>
+        <title>eclipse 常用插件</title>
+        <pubTime>2016-08-29T08:47:43.000Z</pubTime>
+        
+        <tag>eclipse</tag>
+         
+        <tag>plugin</tag>
+         
+         
+           
+             
+              <breadCrumb title="eclipse" url="http://code.skyheng.com/categories/eclipse/"/>
+          
+             
+              <breadCrumb title="plugin" url="http://code.skyheng.com/categories/eclipse/plugin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/08/30/eclipse-install-java-anti-compiler-plugin/</loc>
+    <lastmod>2016-08-30T16:49:38.281Z</lastmod>
+    <data>
+        <display>
+        <title>eclipse安装JAVA反编译插件</title>
+        <pubTime>2016-08-30T03:26:59.000Z</pubTime>
+        
+        <tag>eclipse</tag>
+         
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="eclipse" url="http://code.skyheng.com/categories/eclipse/"/>
+          
+             
+              <breadCrumb title="java" url="http://code.skyheng.com/categories/eclipse/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/08/25/eclipse-install-jrebel/</loc>
+    <lastmod>2016-08-30T16:49:37.186Z</lastmod>
+    <data>
+        <display>
+        <title>eclipse安装JRebel6.4.8热部署插件教程</title>
         <pubTime>2016-08-25T15:19:19.000Z</pubTime>
         
         <tag>开发工具</tag>
@@ -519,31 +569,6 @@
 
     
   <url>
-    <loc>http://code.skyheng.com/2016/05/02/mysql-install-and-settings/</loc>
-    <lastmod>2016-08-02T12:07:26.614Z</lastmod>
-    <data>
-        <display>
-        <title>Mysql 安装和配置</title>
-        <pubTime>2016-05-02T14:28:29.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-        <tag>Mysql</tag>
-         
-         
-           
-             
-              <breadCrumb title="linux" url="http://code.skyheng.com/categories/linux/"/>
-          
-             
-              <breadCrumb title="Mysql" url="http://code.skyheng.com/categories/linux/Mysql/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://code.skyheng.com/2016/05/04/wxpay-scanpay-java-sdk/</loc>
     <lastmod>2016-08-02T12:07:26.614Z</lastmod>
     <data>
@@ -562,6 +587,31 @@
           
              
               <breadCrumb title="刷卡支付" url="http://code.skyheng.com/categories/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98/%E5%88%B7%E5%8D%A1%E6%94%AF%E4%BB%98/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/05/02/mysql-install-and-settings/</loc>
+    <lastmod>2016-08-02T12:07:26.614Z</lastmod>
+    <data>
+        <display>
+        <title>Mysql 安装和配置</title>
+        <pubTime>2016-05-02T14:28:29.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+        <tag>Mysql</tag>
+         
+         
+           
+             
+              <breadCrumb title="linux" url="http://code.skyheng.com/categories/linux/"/>
+          
+             
+              <breadCrumb title="Mysql" url="http://code.skyheng.com/categories/linux/Mysql/"/>
           
         </display>
     </data>
