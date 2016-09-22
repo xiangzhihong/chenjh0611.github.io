@@ -4,6 +4,252 @@
 
     
   <url>
+    <loc>http://code.skyheng.com/2016/05/04/wxpay-scanpay-java-sdk/</loc>
+    <lastmod>2016-09-22T15:49:10.867Z</lastmod>
+    <data>
+        <display>
+        <title>【微信支付】“刷卡支付”、“被扫支付”开发说明</title>
+        <pubTime>2016-05-04T14:45:37.000Z</pubTime>
+        
+        <tag>微信支付</tag>
+         
+        <tag>刷卡支付</tag>
+         
+         
+           
+             
+              <breadCrumb title="微信支付" url="http://code.skyheng.com/categories/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98/"/>
+          
+             
+              <breadCrumb title="刷卡支付" url="http://code.skyheng.com/categories/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98/%E5%88%B7%E5%8D%A1%E6%94%AF%E4%BB%98/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/05/16/vmware-set-centos-static-ip/</loc>
+    <lastmod>2016-09-22T15:48:51.142Z</lastmod>
+    <data>
+        <display>
+        <title>VMware中CentOS设置静态IP</title>
+        <pubTime>2016-05-16T09:58:27.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+        <tag>CentOS</tag>
+         
+         
+           
+             
+              <breadCrumb title="CentOS" url="http://code.skyheng.com/categories/CentOS/"/>
+          
+             
+              <breadCrumb title="linux" url="http://code.skyheng.com/categories/CentOS/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/08/02/common-hexo-commands/</loc>
+    <lastmod>2016-09-22T15:48:43.239Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo 最常用的几个命令</title>
+        <pubTime>2016-08-02T14:12:04.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="术业专攻" url="http://code.skyheng.com/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2015/03/09/maven-related-knowledge-topics/</loc>
+    <lastmod>2016-09-22T15:48:35.426Z</lastmod>
+    <data>
+        <display>
+        <title>构建工具-Maven-相关知识-整理专题</title>
+        <pubTime>2015-03-09T11:56:08.000Z</pubTime>
+        
+        <tag>Maven</tag>
+         
+        <tag>Java</tag>
+         
+        <tag>CI</tag>
+         
+         
+           
+             
+              <breadCrumb title="Java" url="http://code.skyheng.com/categories/Java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/03/07/my-learning-way/</loc>
+    <lastmod>2016-09-22T15:48:31.086Z</lastmod>
+    <data>
+        <display>
+        <title>我的学习、归纳方法（以学习 Maven 为例）</title>
+        <pubTime>2016-03-07T12:50:25.000Z</pubTime>
+        
+        <tag>学习方法</tag>
+         
+        <tag>Maven</tag>
+         
+        <tag>Java</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习方法" url="http://code.skyheng.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
+          
+             
+              <breadCrumb title="Java" url="http://code.skyheng.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/Java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/08/08/%E5%85%B3%E4%BA%8E%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%80%E8%87%B4%E6%80%A7%E7%9A%84%E6%8E%A2%E7%A9%B6/</loc>
+    <lastmod>2016-09-22T15:48:11.345Z</lastmod>
+    <data>
+        <display>
+        <title>关于分布式一致性的探究</title>
+        <pubTime>2016-08-08T15:21:25.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/08/08/%E5%88%9D%E8%AF%86%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2016-09-22T15:48:07.864Z</lastmod>
+    <data>
+        <display>
+        <title>初识分布式系统</title>
+        <pubTime>2016-08-08T09:38:39.000Z</pubTime>
+        
+        <tag>分布式</tag>
+         
+        <tag>dubbo</tag>
+         
+         
+           
+             
+              <breadCrumb title="分布式" url="http://code.skyheng.com/categories/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+          
+             
+              <breadCrumb title="dubbo" url="http://code.skyheng.com/categories/%E5%88%86%E5%B8%83%E5%BC%8F/dubbo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/08/22/jquery-eval-paesing-json-introduce/</loc>
+    <lastmod>2016-09-22T15:47:48.754Z</lastmod>
+    <data>
+        <display>
+        <title>jquery eval解析JSON中的注意点介绍</title>
+        <pubTime>2016-08-22T10:51:02.000Z</pubTime>
+        
+        <tag>ajax</tag>
+         
+        <tag>JavaScript</tag>
+         
+        <tag>jquery</tag>
+         
+         
+           
+             
+              <breadCrumb title="ajax" url="http://code.skyheng.com/categories/ajax/"/>
+          
+             
+              <breadCrumb title="JavaScript" url="http://code.skyheng.com/categories/ajax/JavaScript/"/>
+          
+             
+              <breadCrumb title="jquery" url="http://code.skyheng.com/categories/ajax/JavaScript/jquery/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/08/25/eclipse-install-jrebel/</loc>
+    <lastmod>2016-09-22T15:47:36.633Z</lastmod>
+    <data>
+        <display>
+        <title>eclipse安装JRebel6.4.8热部署插件教程</title>
+        <pubTime>2016-08-25T15:19:19.000Z</pubTime>
+        
+        <tag>eclipse</tag>
+         
+        <tag>JRebel</tag>
+         
+        <tag>开发工具</tag>
+         
+         
+           
+             
+              <breadCrumb title="eclipse" url="http://code.skyheng.com/categories/eclipse/"/>
+          
+             
+              <breadCrumb title="JRebel" url="http://code.skyheng.com/categories/eclipse/JRebel/"/>
+          
+             
+              <breadCrumb title="开发工具" url="http://code.skyheng.com/categories/eclipse/JRebel/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/08/29/eclipse-common-plugin/</loc>
+    <lastmod>2016-09-22T15:47:09.763Z</lastmod>
+    <data>
+        <display>
+        <title>eclipse 常用插件</title>
+        <pubTime>2016-08-29T08:47:43.000Z</pubTime>
+        
+        <tag>eclipse</tag>
+         
+        <tag>plugin</tag>
+         
+         
+           
+             
+              <breadCrumb title="eclipse" url="http://code.skyheng.com/categories/eclipse/"/>
+          
+             
+              <breadCrumb title="plugin" url="http://code.skyheng.com/categories/eclipse/plugin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://code.skyheng.com/2016/04/17/jdk-install/</loc>
     <lastmod>2016-09-22T15:41:36.203Z</lastmod>
     <data>
@@ -106,61 +352,6 @@
 
     
   <url>
-    <loc>http://code.skyheng.com/2016/08/29/eclipse-common-plugin/</loc>
-    <lastmod>2016-09-18T14:24:05.378Z</lastmod>
-    <data>
-        <display>
-        <title>eclipse 常用插件</title>
-        <pubTime>2016-08-29T08:47:43.000Z</pubTime>
-        
-        <tag>eclipse</tag>
-         
-        <tag>plugin</tag>
-         
-         
-           
-             
-              <breadCrumb title="eclipse" url="http://code.skyheng.com/categories/eclipse/"/>
-          
-             
-              <breadCrumb title="plugin" url="http://code.skyheng.com/categories/eclipse/plugin/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://code.skyheng.com/2016/08/25/eclipse-install-jrebel/</loc>
-    <lastmod>2016-09-10T08:01:40.854Z</lastmod>
-    <data>
-        <display>
-        <title>eclipse安装JRebel6.4.8热部署插件教程</title>
-        <pubTime>2016-08-25T15:19:19.000Z</pubTime>
-        
-        <tag>eclipse</tag>
-         
-        <tag>JRebel</tag>
-         
-        <tag>开发工具</tag>
-         
-         
-           
-             
-              <breadCrumb title="eclipse" url="http://code.skyheng.com/categories/eclipse/"/>
-          
-             
-              <breadCrumb title="JRebel" url="http://code.skyheng.com/categories/eclipse/JRebel/"/>
-          
-             
-              <breadCrumb title="开发工具" url="http://code.skyheng.com/categories/eclipse/JRebel/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://code.skyheng.com/2016/07/21/improve-efficiency-database-query/</loc>
     <lastmod>2016-08-25T13:42:44.217Z</lastmod>
     <data>
@@ -179,76 +370,6 @@
           
              
               <breadCrumb title="SQL" url="http://code.skyheng.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://code.skyheng.com/2016/08/22/jquery-eval-paesing-json-introduce/</loc>
-    <lastmod>2016-08-22T16:02:49.523Z</lastmod>
-    <data>
-        <display>
-        <title>jquery eval解析JSON中的注意点介绍</title>
-        <pubTime>2016-08-22T10:51:02.000Z</pubTime>
-        
-        <tag>ajax</tag>
-         
-        <tag>JavaScript</tag>
-         
-        <tag>jquery</tag>
-         
-         
-           
-             
-              <breadCrumb title="ajax" url="http://code.skyheng.com/categories/ajax/"/>
-          
-             
-              <breadCrumb title="JavaScript" url="http://code.skyheng.com/categories/ajax/JavaScript/"/>
-          
-             
-              <breadCrumb title="jquery" url="http://code.skyheng.com/categories/ajax/JavaScript/jquery/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://code.skyheng.com/2016/08/08/%E5%85%B3%E4%BA%8E%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%80%E8%87%B4%E6%80%A7%E7%9A%84%E6%8E%A2%E7%A9%B6/</loc>
-    <lastmod>2016-08-21T15:00:54.325Z</lastmod>
-    <data>
-        <display>
-        <title>关于分布式一致性的探究</title>
-        <pubTime>2016-08-08T15:21:25.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://code.skyheng.com/2016/08/08/%E5%88%9D%E8%AF%86%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2016-08-08T13:51:53.670Z</lastmod>
-    <data>
-        <display>
-        <title>初识分布式系统</title>
-        <pubTime>2016-08-08T09:38:39.000Z</pubTime>
-        
-        <tag>分布式</tag>
-         
-        <tag>dubbo</tag>
-         
-         
-           
-             
-              <breadCrumb title="分布式" url="http://code.skyheng.com/categories/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
-          
-             
-              <breadCrumb title="dubbo" url="http://code.skyheng.com/categories/%E5%88%86%E5%B8%83%E5%BC%8F/dubbo/"/>
           
         </display>
     </data>
@@ -309,82 +430,6 @@
 
     
   <url>
-    <loc>http://code.skyheng.com/2016/03/07/my-learning-way/</loc>
-    <lastmod>2016-08-04T12:29:43.453Z</lastmod>
-    <data>
-        <display>
-        <title>我的学习、归纳方法（以学习 Maven 为例）</title>
-        <pubTime>2016-03-07T12:50:25.000Z</pubTime>
-        
-        <tag>学习方法</tag>
-         
-        <tag>Maven</tag>
-         
-        <tag>Java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习方法" url="http://code.skyheng.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
-          
-             
-              <breadCrumb title="Java" url="http://code.skyheng.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/Java/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://code.skyheng.com/2015/03/09/maven-related-knowledge-topics/</loc>
-    <lastmod>2016-08-04T12:23:00.339Z</lastmod>
-    <data>
-        <display>
-        <title>构建工具-Maven-相关知识-整理专题</title>
-        <pubTime>2015-03-09T11:56:08.000Z</pubTime>
-        
-        <tag>Maven</tag>
-         
-        <tag>Java</tag>
-         
-        <tag>CI</tag>
-         
-         
-           
-             
-              <breadCrumb title="Java" url="http://code.skyheng.com/categories/Java/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://code.skyheng.com/2016/05/16/vmware-set-centos-static-ip/</loc>
-    <lastmod>2016-08-04T12:13:27.595Z</lastmod>
-    <data>
-        <display>
-        <title>VMware中CentOS设置静态IP</title>
-        <pubTime>2016-05-16T09:58:27.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-        <tag>CentOS</tag>
-         
-         
-           
-             
-              <breadCrumb title="CentOS" url="http://code.skyheng.com/categories/CentOS/"/>
-          
-             
-              <breadCrumb title="linux" url="http://code.skyheng.com/categories/CentOS/linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://code.skyheng.com/2016/08/03/excel-markdown-table/</loc>
     <lastmod>2016-08-02T16:04:30.509Z</lastmod>
     <data>
@@ -402,26 +447,6 @@
            
              
               <breadCrumb title="触类旁通" url="http://code.skyheng.com/categories/%E8%A7%A6%E7%B1%BB%E6%97%81%E9%80%9A/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://code.skyheng.com/2016/08/02/common-hexo-commands/</loc>
-    <lastmod>2016-08-02T16:02:44.327Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo 最常用的几个命令</title>
-        <pubTime>2016-08-02T14:12:04.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="术业专攻" url="http://code.skyheng.com/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
           
         </display>
     </data>
@@ -562,31 +587,6 @@
           
              
               <breadCrumb title="Mysql" url="http://code.skyheng.com/categories/linux/Mysql/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://code.skyheng.com/2016/05/04/wxpay-scanpay-java-sdk/</loc>
-    <lastmod>2016-08-02T12:07:26.614Z</lastmod>
-    <data>
-        <display>
-        <title>【微信支付】“刷卡支付”、“被扫支付”开发说明</title>
-        <pubTime>2016-05-04T14:45:37.000Z</pubTime>
-        
-        <tag>微信支付</tag>
-         
-        <tag>刷卡支付</tag>
-         
-         
-           
-             
-              <breadCrumb title="微信支付" url="http://code.skyheng.com/categories/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98/"/>
-          
-             
-              <breadCrumb title="刷卡支付" url="http://code.skyheng.com/categories/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98/%E5%88%B7%E5%8D%A1%E6%94%AF%E4%BB%98/"/>
           
         </display>
     </data>

@@ -15,16 +15,16 @@
 
 
 
-<meta name="description" content="&amp;#x524D;&amp;#x8A00;&amp;#x5728;JS&amp;#x4E2D;&amp;#x5C06;JSON&amp;#x7684;&amp;#x5B57;&amp;#x7B26;&amp;#x4E32;&amp;#x89E3;&amp;#x6790;&amp;#x6210;JSON&amp;#x6570;&amp;#x636E;&amp;#x683C;&amp;#x5F0F;&amp;#xFF0C;&amp;#x4E00;&amp;#x822C;&amp;#x6709;&amp;#x4E24;&amp;#x79CD;&amp;#x65B9;&amp;#x5F0">
+<meta name="description" content="&amp;#x5728;JS&amp;#x4E2D;&amp;#x5C06;JSON&amp;#x7684;&amp;#x5B57;&amp;#x7B26;&amp;#x4E32;&amp;#x89E3;&amp;#x6790;&amp;#x6210;JSON&amp;#x6570;&amp;#x636E;&amp;#x683C;&amp;#x5F0F;&amp;#xFF0C;&amp;#x4E00;&amp;#x822C;&amp;#x6709;&amp;#x4E24;&amp;#x79CD;&amp;#x65B9;&amp;#x5F0F;&amp;#xFF1A;&amp;#x4F7">
 <meta property="og:type" content="article">
 <meta property="og:title" content="jquery eval解析JSON中的注意点介绍">
 <meta property="og:url" content="http://code.skyheng.com/2016/08/22/jquery-eval-paesing-json-introduce/index.html">
 <meta property="og:site_name" content="Chenjh Code">
-<meta property="og:description" content="&amp;#x524D;&amp;#x8A00;&amp;#x5728;JS&amp;#x4E2D;&amp;#x5C06;JSON&amp;#x7684;&amp;#x5B57;&amp;#x7B26;&amp;#x4E32;&amp;#x89E3;&amp;#x6790;&amp;#x6210;JSON&amp;#x6570;&amp;#x636E;&amp;#x683C;&amp;#x5F0F;&amp;#xFF0C;&amp;#x4E00;&amp;#x822C;&amp;#x6709;&amp;#x4E24;&amp;#x79CD;&amp;#x65B9;&amp;#x5F0">
-<meta property="og:updated_time" content="2016-08-22T16:02:49.523Z">
+<meta property="og:description" content="&amp;#x5728;JS&amp;#x4E2D;&amp;#x5C06;JSON&amp;#x7684;&amp;#x5B57;&amp;#x7B26;&amp;#x4E32;&amp;#x89E3;&amp;#x6790;&amp;#x6210;JSON&amp;#x6570;&amp;#x636E;&amp;#x683C;&amp;#x5F0F;&amp;#xFF0C;&amp;#x4E00;&amp;#x822C;&amp;#x6709;&amp;#x4E24;&amp;#x79CD;&amp;#x65B9;&amp;#x5F0F;&amp;#xFF1A;&amp;#x4F7">
+<meta property="og:updated_time" content="2016-09-22T15:47:48.754Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="jquery eval解析JSON中的注意点介绍">
-<meta name="twitter:description" content="&amp;#x524D;&amp;#x8A00;&amp;#x5728;JS&amp;#x4E2D;&amp;#x5C06;JSON&amp;#x7684;&amp;#x5B57;&amp;#x7B26;&amp;#x4E32;&amp;#x89E3;&amp;#x6790;&amp;#x6210;JSON&amp;#x6570;&amp;#x636E;&amp;#x683C;&amp;#x5F0F;&amp;#xFF0C;&amp;#x4E00;&amp;#x822C;&amp;#x6709;&amp;#x4E24;&amp;#x79CD;&amp;#x65B9;&amp;#x5F0">
+<meta name="twitter:description" content="&amp;#x5728;JS&amp;#x4E2D;&amp;#x5C06;JSON&amp;#x7684;&amp;#x5B57;&amp;#x7B26;&amp;#x4E32;&amp;#x89E3;&amp;#x6790;&amp;#x6210;JSON&amp;#x6570;&amp;#x636E;&amp;#x683C;&amp;#x5F0F;&amp;#xFF0C;&amp;#x4E00;&amp;#x822C;&amp;#x6709;&amp;#x4E24;&amp;#x79CD;&amp;#x65B9;&amp;#x5F0F;&amp;#xFF1A;&amp;#x4F7">
 
 <link rel="apple-touch-icon" href= "/apple-touch-icon.png">
 
@@ -155,13 +155,13 @@
                 <div class="tips-box hide">
                     <div class="tips-arrow"></div>
                     <ul class="tips-inner">
-                        <li>菜单</li>
-                        <li>标签</li>
+                        <li>Menu</li>
+                        <li>Tags</li>
                         
-                        <li>友情链接</li>
+                        <li>Friends</li>
                         
                         
-                        <li>关于我</li>
+                        <li>About Me</li>
                         
                     </ul>
                 </div>
@@ -281,7 +281,7 @@
             </nav>
         </header>                
     </div>
-    <link class="menu-list" tags="标签" friends="友情链接" about="关于我"/>
+    <link class="menu-list" tags="Tags" friends="Friends" about="About Me"/>
 </nav>
       <div class="body-wrap"><article id="post-jquery-eval-paesing-json-introduce" class="article article-type-post" itemscope itemprop="blogPost">
   
@@ -327,7 +327,7 @@
     <div class="article-entry" itemprop="articleBody">
       
           
-        <p></p><h2 id="intro">&#x524D;&#x8A00;</h2>&#x5728;JS&#x4E2D;&#x5C06;JSON&#x7684;&#x5B57;&#x7B26;&#x4E32;&#x89E3;&#x6790;&#x6210;JSON&#x6570;&#x636E;&#x683C;&#x5F0F;&#xFF0C;&#x4E00;&#x822C;&#x6709;&#x4E24;&#x79CD;&#x65B9;&#x5F0F;&#xFF1A;&#x4F7F;&#x7528;eval()&#x51FD;&#x6570;&#x3001;&#x4F7F;&#x7528;Function&#x5BF9;&#x8C61;&#x6765;&#x8FDB;&#x884C;&#x8FD4;&#x56DE;&#x89E3;&#x6790;&#xFF0C;&#x4E0B;&#x9762;&#x6709;&#x4E2A;&#x793A;&#x4F8B;&#xFF0C;&#x5728;&#x4F7F;&#x7528;ajax&#x8BF7;&#x6C42;&#x540E;&#x53F0;&#x6570;&#x636E;&#x7684;&#x65F6;&#x5019;&#x4F1A;&#x51FA;&#x73B0;missing ] after element list&#x7684;&#x95EE;&#x9898;&#xFF0C;&#x4ECA;&#x5929;&#x51FA;&#x73B0;&#x8FD9;&#x4E2A;&#x95EE;&#x9898;&#x6240;&#x4EE5;&#x6211;&#x5C31;&#x63A2;&#x7A76;&#x4E86;&#x4E0B;<br><a id="more"></a><p></p>
+        <p></p><h2 id="intro"></h2>&#x5728;JS&#x4E2D;&#x5C06;JSON&#x7684;&#x5B57;&#x7B26;&#x4E32;&#x89E3;&#x6790;&#x6210;JSON&#x6570;&#x636E;&#x683C;&#x5F0F;&#xFF0C;&#x4E00;&#x822C;&#x6709;&#x4E24;&#x79CD;&#x65B9;&#x5F0F;&#xFF1A;&#x4F7F;&#x7528;eval()&#x51FD;&#x6570;&#x3001;&#x4F7F;&#x7528;Function&#x5BF9;&#x8C61;&#x6765;&#x8FDB;&#x884C;&#x8FD4;&#x56DE;&#x89E3;&#x6790;&#xFF0C;&#x4E0B;&#x9762;&#x6709;&#x4E2A;&#x793A;&#x4F8B;&#xFF0C;&#x5728;&#x4F7F;&#x7528;ajax&#x8BF7;&#x6C42;&#x540E;&#x53F0;&#x6570;&#x636E;&#x7684;&#x65F6;&#x5019;&#x4F1A;&#x51FA;&#x73B0;missing ] after element list&#x7684;&#x95EE;&#x9898;&#xFF0C;&#x4ECA;&#x5929;&#x51FA;&#x73B0;&#x8FD9;&#x4E2A;&#x95EE;&#x9898;&#x6240;&#x4EE5;&#x6211;&#x5C31;&#x63A2;&#x7A76;&#x4E86;&#x4E0B;<br><a id="more"></a><p></p>
 <h2 id="&#x4ECB;&#x7ECD;"><a href="#&#x4ECB;&#x7ECD;" class="headerlink" title="&#x4ECB;&#x7ECD;"></a>&#x4ECB;&#x7ECD;</h2><ul>
 <li>&#x5728;JS&#x4E2D;&#x5C06;JSON&#x7684;&#x5B57;&#x7B26;&#x4E32;&#x89E3;&#x6790;&#x6210;JSON&#x6570;&#x636E;&#x683C;&#x5F0F;&#xFF0C;&#x4E00;&#x822C;&#x6709;&#x4E24;&#x79CD;&#x65B9;&#x5F0F;&#xFF1A; </li>
 </ul>
@@ -397,17 +397,17 @@
   
     
     <div class="copyright">
-        <p><span>本文标题:</span><a href="/2016/08/22/jquery-eval-paesing-json-introduce/">jquery eval解析JSON中的注意点介绍</a></p>
-        <p><span>文章作者:</span><a href="/" title="回到主页">Chenjh</a></p>
-        <p><span>发布时间:</span>2016-08-22, 18:51:02</p>
-        <p><span>最后更新:</span>2016-08-23, 00:02:49</p>
+        <p><span>Title:</span><a href="/2016/08/22/jquery-eval-paesing-json-introduce/">jquery eval解析JSON中的注意点介绍</a></p>
+        <p><span>Author:</span><a href="/" title="Back to Homepage">Chenjh</a></p>
+        <p><span>Created:</span>2016-08-22, 18:51:02</p>
+        <p><span>Updated:</span>2016-09-22, 23:47:48</p>
         <p>
-            <span>原始链接:</span><a class="post-url" href="/2016/08/22/jquery-eval-paesing-json-introduce/" title="jquery eval解析JSON中的注意点介绍">http://code.skyheng.com/2016/08/22/jquery-eval-paesing-json-introduce/</a>
-            <span class="copy-path" data-clipboard-text="原文: http://code.skyheng.com/2016/08/22/jquery-eval-paesing-json-introduce/　　作者: Chenjh" title="点击复制文章链接"><i class="fa fa-clipboard"></i></span>
+            <span>Full URL:</span><a class="post-url" href="/2016/08/22/jquery-eval-paesing-json-introduce/" title="jquery eval解析JSON中的注意点介绍">http://code.skyheng.com/2016/08/22/jquery-eval-paesing-json-introduce/</a>
+            <span class="copy-path" data-clipboard-text="From http://code.skyheng.com/2016/08/22/jquery-eval-paesing-json-introduce/　　By Chenjh" title="Copy Article&#39;s Link &amp; Author"><i class="fa fa-clipboard"></i></span>
             <script> var clipboard = new Clipboard('.copy-path'); </script>
         </p>
         <p>
-            <span>许可协议:</span><i class="fa fa-creative-commons"></i> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" title="CC BY-NC-SA 4.0 International" target = "_blank">"署名-非商用-相同方式共享 4.0"</a> 转载请保留原文链接及作者。
+            <span>License:</span><i class="fa fa-creative-commons"></i> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" title="CC BY-NC-SA 4.0 International" target = "_blank">"CC BY-NC-SA 4.0"</a> Keep Link &amp; Author if Distribute.
         </p>
     </div>
 
@@ -434,9 +434,9 @@
 </article>
 
     <div id="toc" class="toc-article">
-        <strong class="toc-title">文章目录</strong>
+        <strong class="toc-title">Contents</strong>
         
-            <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#intro"><span class="toc-number">1.</span> <span class="toc-text">前言</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#介绍"><span class="toc-number">2.</span> <span class="toc-text">介绍</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#第一种情况"><span class="toc-number">3.</span> <span class="toc-text">第一种情况</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#JSON字符串集"><span class="toc-number">3.1.</span> <span class="toc-text">JSON字符串集</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#第二种情况"><span class="toc-number">4.</span> <span class="toc-text">第二种情况</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#错误注意"><span class="toc-number">4.1.</span> <span class="toc-text">错误注意</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#后台返回数据的java代码"><span class="toc-number">4.2.</span> <span class="toc-text">后台返回数据的java代码</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#返回的json数据"><span class="toc-number">4.3.</span> <span class="toc-text">返回的json数据</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#JavaScript代码"><span class="toc-number">4.4.</span> <span class="toc-text">JavaScript代码</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#资料"><span class="toc-number">5.</span> <span class="toc-text">资料</span></a></li></ol>
+            <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#intro"><span class="toc-number">1.</span> <span class="toc-text"></span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#介绍"><span class="toc-number">2.</span> <span class="toc-text">介绍</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#第一种情况"><span class="toc-number">3.</span> <span class="toc-text">第一种情况</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#JSON字符串集"><span class="toc-number">3.1.</span> <span class="toc-text">JSON字符串集</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#第二种情况"><span class="toc-number">4.</span> <span class="toc-text">第二种情况</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#错误注意"><span class="toc-number">4.1.</span> <span class="toc-text">错误注意</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#后台返回数据的java代码"><span class="toc-number">4.2.</span> <span class="toc-text">后台返回数据的java代码</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#返回的json数据"><span class="toc-number">4.3.</span> <span class="toc-text">返回的json数据</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#JavaScript代码"><span class="toc-number">4.4.</span> <span class="toc-text">JavaScript代码</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#资料"><span class="toc-number">5.</span> <span class="toc-text">资料</span></a></li></ol>
         
     </div>
     <style>
@@ -450,10 +450,10 @@
         }
     </style>
 
-    <input type="button" id="tocButton" value="隐藏目录"  title="点击按钮隐藏或者显示文章目录">
+    <input type="button" id="tocButton" value="Hide"  title="Show or Hide Table of Contents">
 
     <script>
-        yiliaConfig.toc = ["隐藏目录", "显示目录", !!"false"];
+        yiliaConfig.toc = ["Hide", "Show", !!"false"];
     </script>
 
 
@@ -506,15 +506,15 @@
 
     <div class="scroll" id="post-nav-button">
         
-            <a href="/2016/08/25/eclipse-install-jrebel/" title="上一篇: eclipse安装JRebel6.4.8热部署插件教程">
+            <a href="/2016/08/25/eclipse-install-jrebel/" title="Pre: eclipse安装JRebel6.4.8热部署插件教程">
                 <i class="fa fa-angle-left"></i>
             </a>
         
 
-        <a title="文章列表"><i class="fa fa-bars"></i><i class="fa fa-times"></i></a>
+        <a title="Mini Archives"><i class="fa fa-bars"></i><i class="fa fa-times"></i></a>
 
         
-            <a href="/2016/08/08/关于分布式一致性的探究/" title="下一篇: 关于分布式一致性的探究">
+            <a href="/2016/08/08/关于分布式一致性的探究/" title="Next: 关于分布式一致性的探究">
                 <i class="fa fa-angle-right"></i>
             </a>
         
@@ -538,8 +538,8 @@
             </div>
             <div class="footer-right">
                  <!--
-				 <a href="http://hexo.io/" target="_blank" title="快速、简洁且高效的博客框架">Hexo</a>Theme 
-				 <a href="https://github.com/MOxFIVE/hexo-theme-yelee" target="_blank" title="简而不减 Hexo 双栏博客主题  v3.5">Yelee</a> by MOxFIVE 
+				 <a href="http://hexo.io/" target="_blank" title="A fast, simple &amp; powerful blog framework">Hexo</a>Theme 
+				 <a href="https://github.com/MOxFIVE/hexo-theme-yelee" target="_blank" title="Another simple and elegant theme for Hexo  v3.5">Yelee</a> by MOxFIVE 
 				 <i class="fa fa-heart animated infinite pulse"></i>
 				 -->
             </div>
@@ -548,7 +548,7 @@
             <div class="visit">
                 
                     <span id="busuanzi_container_site_pv" style='display:none'>
-                        <span id="site-visit" title="本站到访数"><i class="fa fa-user" aria-hidden="true"></i><span id="busuanzi_value_site_uv"></span>
+                        <span id="site-visit" title="Site Visitors"><i class="fa fa-user" aria-hidden="true"></i><span id="busuanzi_value_site_uv"></span>
                         </span>
                     </span>
                 
@@ -557,7 +557,7 @@
                 
                 
                     <span id="busuanzi_container_page_pv" style='display:none'>
-                        <span id="page-visit"  title="本页阅读量"><i class="fa fa-eye animated infinite pulse" aria-hidden="true"></i><span id="busuanzi_value_page_pv"></span>
+                        <span id="page-visit"  title="Page Hits"><i class="fa fa-eye animated infinite pulse" aria-hidden="true"></i><span id="busuanzi_value_page_pv"></span>
                         </span>
                     </span>
                 
@@ -590,9 +590,9 @@
 
 
 <div class="scroll" id="scroll">
-    <a href="#" title="返回顶部"><i class="fa fa-arrow-up"></i></a>
-    <a href="#comments" onclick="load$hide();" title="查看评论"><i class="fa fa-comments-o"></i></a>
-    <a href="#footer" title="转到底部"><i class="fa fa-arrow-down"></i></a>
+    <a href="#" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+    <a href="#comments" onclick="load$hide();" title="Comments"><i class="fa fa-comments-o"></i></a>
+    <a href="#footer" title="Go to Bottom"><i class="fa fa-arrow-down"></i></a>
 </div>
 <script>
     // Open in New Window
