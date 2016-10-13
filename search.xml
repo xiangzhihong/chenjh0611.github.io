@@ -4,6 +4,34 @@
   
     
     <entry>
+      <title><![CDATA[python安装]]></title>
+      <url>http://code.skyheng.com/2016/10/11/python-install/</url>
+      <content type="html"><![CDATA[<p></p><h2 id="intro">&#x524D;&#x8A00;</h2>&#x8FD9;&#x4E2A;&#x5730;&#x65B9;&#x662F;&#x5199;&#x63CF;&#x8FF0;&#x7684;&#x5730;&#x65B9;<p></p>
+<a id="more"></a>
+<h2 id="&#x6807;&#x9898;"><a href="#&#x6807;&#x9898;" class="headerlink" title="&#x6807;&#x9898;"></a>&#x6807;&#x9898;</h2><ul>
+<li>&#x63D2;&#x5165;&#x56FE;&#x7247;&#x793A;&#x4F8B;</li>
+<li><img src="/2016/10/11/python-install/XXX-XXXX-XXXX/XXXX.png" alt="JRebel"></li>
+</ul>
+<h3 id="&#x6807;&#x9898;&#x4E8C;"><a href="#&#x6807;&#x9898;&#x4E8C;" class="headerlink" title="&#x6807;&#x9898;&#x4E8C;"></a>&#x6807;&#x9898;&#x4E8C;</h3><h2 id="&#x8D44;&#x6599;"><a href="#&#x8D44;&#x6599;" class="headerlink" title="&#x8D44;&#x6599;"></a>&#x8D44;&#x6599;</h2><ul>
+<li><p>&#x4E0B;&#x8F7D;&#x5730;&#x5740;<a href="https://www.python.org/downloads/" target="_blank" rel="external">https://www.python.org/downloads/</a></p>
+</li>
+<li><p>&#x5B66;&#x4E60;&#x7F51;&#x5740;&#xFF1A;<a href="http://www.runoob.com/python/python-tutorial.html" target="_blank" rel="external">http://www.runoob.com/python/python-tutorial.html</a></p>
+</li>
+</ul>
+<p><a href="http://blog.csdn.net/zs808/article/details/51611790" target="_blank" rel="external">http://blog.csdn.net/zs808/article/details/51611790</a></p>
+<p><a href="http://blog.csdn.net/u013793399/article/details/51289973" target="_blank" rel="external">http://blog.csdn.net/u013793399/article/details/51289973</a></p>
+<ul>
+<li>Python3.5.2&#x5B89;&#x88C5;&#x6559;&#x7A0B;&#xFF1A;<a href="http://jingyan.baidu.com/article/a17d5285ed78e88098c8f222.html?st=2&amp;net_type=&amp;bd_page_type=1&amp;os=0&amp;rst=&amp;word=www.10010" target="_blank" rel="external">http://jingyan.baidu.com/article/a17d5285ed78e88098c8f222.html?st=2&amp;net_type=&amp;bd_page_type=1&amp;os=0&amp;rst=&amp;word=www.10010</a></li>
+<li>Windows10&#x4E0B;&#x642D;&#x5EFA;Python 3.5.2&#x5F00;&#x53D1;&#x73AF;&#x5883;&#xFF1A;<a href="http://jingyan.baidu.com/article/7f41ecec3cb637593d095caa.html" target="_blank" rel="external">http://jingyan.baidu.com/article/7f41ecec3cb637593d095caa.html</a></li>
+<li>&#x89E3;&#x51B3;&#x542F;&#x52A8;PyCharm&#xFF0C;&#x62A5;&#x9519;No Python interpreter selected&#xFF1A;<a href="http://blog.csdn.net/liucheng417/article/details/49865845" target="_blank" rel="external">http://blog.csdn.net/liucheng417/article/details/49865845</a></li>
+</ul>
+<h2 id="&#x6CE8;"><a href="#&#x6CE8;" class="headerlink" title="&#x6CE8;"></a>&#x6CE8;</h2><ul>
+<li>&#x672C;&#x6587;&#x8F6C;&#x8F7D;&#x81EA;<a href="http://xxxxx" target="_blank" rel="external">http://xxxxx</a></li>
+</ul>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[实例demo之3D transform立方体效果]]></title>
       <url>http://code.skyheng.com/2016/10/09/rect-grid-demo/</url>
       <content type="html"><![CDATA[<p>&#x5B9E;&#x4F8B;demo&#x4E4B;3D transform&#x7ACB;&#x65B9;&#x4F53;&#x6548;&#x679C;</p>
@@ -2333,25 +2361,6 @@ mount -t smbfs -o username=user,password=pass //WinClient/share /mnt/share mount
     </entry>
     
     <entry>
-      <title><![CDATA[SVN 密码破解，svn密码本地找回]]></title>
-      <url>http://code.skyheng.com/2016/05/02/svn-password-find/</url>
-      <content type="html"><![CDATA[<a id="more"></a>
-<h2 id="SVN-&#x5BC6;&#x7801;&#x7834;&#x89E3;&#xFF0C;svn&#x5BC6;&#x7801;&#x672C;&#x5730;&#x627E;&#x56DE;"><a href="#SVN-&#x5BC6;&#x7801;&#x7834;&#x89E3;&#xFF0C;svn&#x5BC6;&#x7801;&#x672C;&#x5730;&#x627E;&#x56DE;" class="headerlink" title="SVN &#x5BC6;&#x7801;&#x7834;&#x89E3;&#xFF0C;svn&#x5BC6;&#x7801;&#x672C;&#x5730;&#x627E;&#x56DE;"></a>SVN &#x5BC6;&#x7801;&#x7834;&#x89E3;&#xFF0C;svn&#x5BC6;&#x7801;&#x672C;&#x5730;&#x627E;&#x56DE;</h2><p>svn &#x5BC6;&#x7801;&#x88AB;&#x4FDD;&#x5B58;&#x5728;&#x672C;&#x5730;&#x6587;&#x4EF6;&#x4E2D;</p>
-<p><code>C:\Users\&#x3010;your computer name&#x3011;\AppData\Roaming\Subversion\auth\svn.simple</code></p>
-<p>&#x6587;&#x4EF6;&#x4E0B;&#x3002;&#x52A0;&#x5BC6;&#x4FDD;&#x5B58;</p>
-<p>&#x5230;&#x8BE5;&#x7F51;&#x7AD9;&#x4E0B;&#x8F7D;<a href="http://www.leapbeyond.com/ric/TSvnPD/TSvnPwd.exe" target="_blank" rel="external">Download exe (1.0.40)</a></p>
-<p>&#x5B98;&#x7F51;&#x5730;&#x5740;&#xFF1A; <a href="http://www.leapbeyond.com/ric/TSvnPD/" target="_blank" rel="external">http://www.leapbeyond.com/ric/TSvnPD/</a></p>
-<p>&#x53CC;&#x51FB;&#x8FD0;&#x884C;&#x5373;&#x53EF;&#x3002;</p>
-<p>  <strong>&#x63D0;&#x793A;</strong><br>  &#x5982;&#x679C;&#x5730;&#x5740;&#x4E0D;&#x53EF;&#x4EE5;&#x4E0B;&#x8F7D;&#x53EF;&#x4EE5;&#x9009;&#x62E9;&#x7F51;&#x76D8;&#x4E0B;&#x8F7D;</p>
-<ul>
-<li>&#x767E;&#x5EA6;&#x7F51;&#x76D8;&#x4E0B;&#x8F7D;&#x5730;&#x5740;&#xFF1A;<a href="http://pan.baidu.com/s/1mhGBQ2W" target="_blank" rel="external">http://pan.baidu.com/s/1mhGBQ2W</a></li>
-</ul>
-<p>&#x51E1;&#x662F;&#x4F60;&#x7528;&#x8FC7;&#x7684;&#x670D;&#x52A1;&#x5668;&#x7684;&#x5BC6;&#x7801;&#x3002;&#x90FD;&#x53EF;&#x4EE5;&#x88AB;&#x7FFB;&#x8BD1;&#x56DE;&#x6765;&#x3002;</p>
-<p>&#x539F;&#x7406;&#xFF1A;&#x89C1;&#x5B98;&#x7F51; How it Works&#x3002;</p>
-]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[Subversion 1.8 安装]]></title>
       <url>http://code.skyheng.com/2016/05/02/svn-install-and-settings/</url>
       <content type="html"><![CDATA[<a id="more"></a>
@@ -2611,6 +2620,25 @@ mount -t smbfs -o username=user,password=pass //WinClient/share /mnt/share mount
 <li><a href="http://m.blog.csdn.net/article/details?id=7908907" target="_blank" rel="external">http://m.blog.csdn.net/article/details?id=7908907</a></li>
 <li>&#x8BBE;&#x7F6E;&#x53EF;&#x7F16;&#x8F91;&#x63D0;&#x4EA4;&#x4FE1;&#x606F;&#xFF1A;<a href="http://stackoverflow.com/questions/692851/can-i-go-back-and-edit-comments-on-an-svn-checkin" target="_blank" rel="external">http://stackoverflow.com/questions/692851/can-i-go-back-and-edit-comments-on-an-svn-checkin</a></li>
 </ul>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[SVN 密码破解，svn密码本地找回]]></title>
+      <url>http://code.skyheng.com/2016/05/02/svn-password-find/</url>
+      <content type="html"><![CDATA[<a id="more"></a>
+<h2 id="SVN-&#x5BC6;&#x7801;&#x7834;&#x89E3;&#xFF0C;svn&#x5BC6;&#x7801;&#x672C;&#x5730;&#x627E;&#x56DE;"><a href="#SVN-&#x5BC6;&#x7801;&#x7834;&#x89E3;&#xFF0C;svn&#x5BC6;&#x7801;&#x672C;&#x5730;&#x627E;&#x56DE;" class="headerlink" title="SVN &#x5BC6;&#x7801;&#x7834;&#x89E3;&#xFF0C;svn&#x5BC6;&#x7801;&#x672C;&#x5730;&#x627E;&#x56DE;"></a>SVN &#x5BC6;&#x7801;&#x7834;&#x89E3;&#xFF0C;svn&#x5BC6;&#x7801;&#x672C;&#x5730;&#x627E;&#x56DE;</h2><p>svn &#x5BC6;&#x7801;&#x88AB;&#x4FDD;&#x5B58;&#x5728;&#x672C;&#x5730;&#x6587;&#x4EF6;&#x4E2D;</p>
+<p><code>C:\Users\&#x3010;your computer name&#x3011;\AppData\Roaming\Subversion\auth\svn.simple</code></p>
+<p>&#x6587;&#x4EF6;&#x4E0B;&#x3002;&#x52A0;&#x5BC6;&#x4FDD;&#x5B58;</p>
+<p>&#x5230;&#x8BE5;&#x7F51;&#x7AD9;&#x4E0B;&#x8F7D;<a href="http://www.leapbeyond.com/ric/TSvnPD/TSvnPwd.exe" target="_blank" rel="external">Download exe (1.0.40)</a></p>
+<p>&#x5B98;&#x7F51;&#x5730;&#x5740;&#xFF1A; <a href="http://www.leapbeyond.com/ric/TSvnPD/" target="_blank" rel="external">http://www.leapbeyond.com/ric/TSvnPD/</a></p>
+<p>&#x53CC;&#x51FB;&#x8FD0;&#x884C;&#x5373;&#x53EF;&#x3002;</p>
+<p>  <strong>&#x63D0;&#x793A;</strong><br>  &#x5982;&#x679C;&#x5730;&#x5740;&#x4E0D;&#x53EF;&#x4EE5;&#x4E0B;&#x8F7D;&#x53EF;&#x4EE5;&#x9009;&#x62E9;&#x7F51;&#x76D8;&#x4E0B;&#x8F7D;</p>
+<ul>
+<li>&#x767E;&#x5EA6;&#x7F51;&#x76D8;&#x4E0B;&#x8F7D;&#x5730;&#x5740;&#xFF1A;<a href="http://pan.baidu.com/s/1mhGBQ2W" target="_blank" rel="external">http://pan.baidu.com/s/1mhGBQ2W</a></li>
+</ul>
+<p>&#x51E1;&#x662F;&#x4F60;&#x7528;&#x8FC7;&#x7684;&#x670D;&#x52A1;&#x5668;&#x7684;&#x5BC6;&#x7801;&#x3002;&#x90FD;&#x53EF;&#x4EE5;&#x88AB;&#x7FFB;&#x8BD1;&#x56DE;&#x6765;&#x3002;</p>
+<p>&#x539F;&#x7406;&#xFF1A;&#x89C1;&#x5B98;&#x7F51; How it Works&#x3002;</p>
 ]]></content>
     </entry>
     
@@ -3984,12 +4012,6 @@ padding: 0;
     </entry>
     
     <entry>
-      <title><![CDATA[categories]]></title>
-      <url>http://code.skyheng.com/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[关于我]]></title>
       <url>http://code.skyheng.com/about/index.html</url>
       <content type="html"><![CDATA[<p><style type="text/css"><br>    strong a {<br>        color: #747474;<br>    }<br>    .player {<br>        text-align: center;<br>        margin: .5em auto 0;<br>        width: 100%;<br>        max-width: 22em;<br>    }<br>    .player br {<br>        display: none;<br>    }<br>    .sign {<br>        text-align: right;<br>        font-style: italic;<br>    }</p>
@@ -4049,6 +4071,12 @@ padding: 0;
 <ul class="ds-recent-visitors" data-num-items="30" data-avatar-size="56"></ul>
 
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[categories]]></title>
+      <url>http://code.skyheng.com/categories/index.html</url>
+      <content type="html"></content>
     </entry>
     
     <entry>
@@ -4252,6 +4280,23 @@ padding: 0;
     </entry>
     
     <entry>
+      <title><![CDATA[相册]]></title>
+      <url>http://code.skyheng.com/photo/index.html</url>
+      <content type="html"><![CDATA[<p><link type="text/css" href="/fancybox/jquery.fancybox.css" rel="stylesheet"></p>
+<div class="instagram"><section class="archives album"><ul class="img-box-ul"></ul></section></div>
+
+<script src="/js/photo.js"></script>
+
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[分类 & 标签]]></title>
+      <url>http://code.skyheng.com/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title></title>
       <url>http://code.skyheng.com/photo/tool.js</url>
       <content type="html"><![CDATA[&quot;use strict&quot;;
@@ -4280,17 +4325,6 @@ fs.readdir(path, function (err, files) {
         })
     }(0));
 });]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[相册]]></title>
-      <url>http://code.skyheng.com/photo/index.html</url>
-      <content type="html"><![CDATA[<p><link type="text/css" href="/fancybox/jquery.fancybox.css" rel="stylesheet"></p>
-<div class="instagram"><section class="archives album"><ul class="img-box-ul"></ul></section></div>
-
-<script src="/js/photo.js"></script>
-
-]]></content>
     </entry>
     
     <entry>
@@ -4325,7 +4359,10 @@ fs.readdir(path, function (err, files) {
 </li>
 </ul>
 <ul>
-<li>Get&#x793E;&#x533A;&#xFF1A;<a href="http://get.ftqq.com/" target="_blank" rel="external">http://get.ftqq.com/</a>  &#x53EF;&#x4F7F;&#x7528;&#x5FAE;&#x535A;&#x4E00;&#x952E;&#x767B;&#x5F55;</li>
+<li><p>Get&#x793E;&#x533A;&#xFF1A;<a href="http://get.ftqq.com/" target="_blank" rel="external">http://get.ftqq.com/</a>  &#x53EF;&#x4F7F;&#x7528;&#x5FAE;&#x535A;&#x4E00;&#x952E;&#x767B;&#x5F55;</p>
+</li>
+<li><p>tanteng.me&#xFF1A;<a href="https://www.tanteng.me/" target="_blank" rel="external">https://www.tanteng.me/</a></p>
+</li>
 </ul>
 <h3 id="&#x535A;&#x6587;&#x5730;&#x5740;&#xFF1A;"><a href="#&#x535A;&#x6587;&#x5730;&#x5740;&#xFF1A;" class="headerlink" title="&#x535A;&#x6587;&#x5730;&#x5740;&#xFF1A;"></a>&#x535A;&#x6587;&#x5730;&#x5740;&#xFF1A;</h3><ul>
 <li>hexo&#x4E3B;&#x9898;&#x4E2D;&#x6DFB;&#x52A0;&#x76F8;&#x518C;&#x529F;&#x80FD;&#xFF1A;<a href="http://zlwis.me/2016/01/17/hexo%E4%B8%BB%E9%A2%98%E4%B8%AD%E6%B7%BB%E5%8A%A0%E7%9B%B8%E5%86%8C%E5%8A%9F%E8%83%BD/" target="_blank" rel="external">http://zlwis.me/2016/01/17/hexo%E4%B8%BB%E9%A2%98%E4%B8%AD%E6%B7%BB%E5%8A%A0%E7%9B%B8%E5%86%8C%E5%8A%9F%E8%83%BD/</a></li>
@@ -4372,12 +4409,6 @@ fs.readdir(path, function (err, files) {
         display: none;
     }
 </style>]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[分类 & 标签]]></title>
-      <url>http://code.skyheng.com/tags/index.html</url>
-      <content type="html"></content>
     </entry>
     
     <entry>

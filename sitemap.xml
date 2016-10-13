@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://code.skyheng.com/2016/10/11/python-install/</loc>
+    
+    <lastmod>2016-10-10T16:52:05.934Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://code.skyheng.com/links/index.html</loc>
+    
+    <lastmod>2016-10-10T16:09:35.606Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://code.skyheng.com/2016/10/09/rect-grid-demo/</loc>
+    
+    <lastmod>2016-10-09T15:46:14.171Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://code.skyheng.com/about/resume.html</loc>
     
     <lastmod>2016-10-09T14:27:35.480Z</lastmod>
@@ -23,13 +44,6 @@
   </url>
   
   <url>
-    <loc>http://code.skyheng.com/2016/10/09/rect-grid-demo/</loc>
-    
-    <lastmod>2016-10-09T14:18:44.585Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://code.skyheng.com//404.html</loc>
     
     <lastmod>2016-10-09T14:18:44.570Z</lastmod>
@@ -40,13 +54,6 @@
     <loc>http://code.skyheng.com/toolbox/index.html</loc>
     
     <lastmod>2016-10-09T14:18:44.539Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://code.skyheng.com/links/index.html</loc>
-    
-    <lastmod>2016-10-09T14:18:44.351Z</lastmod>
     
   </url>
   
