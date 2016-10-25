@@ -4,8 +4,224 @@
 
     
   <url>
+    <loc>http://code.skyheng.com/2016/10/21/win10-shortcut-key/</loc>
+    <lastmod>2016-10-21T15:09:01.970Z</lastmod>
+    <data>
+        <display>
+        <title>win10-shortcut-key</title>
+        <pubTime>2016-10-21T15:04:35.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/07/21/improve-efficiency-database-query/</loc>
+    <lastmod>2016-10-21T06:52:49.826Z</lastmod>
+    <data>
+        <display>
+        <title>在一个千万级的数据库查寻中，如何提高查询效率？</title>
+        <pubTime>2016-07-21T14:39:51.000Z</pubTime>
+        
+        <tag>数据库</tag>
+         
+        <tag>SQL</tag>
+         
+         
+           
+             
+              <breadCrumb title="数据库" url="http://code.skyheng.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+          
+             
+              <breadCrumb title="SQL" url="http://code.skyheng.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/10/21/zooKeeper-command-introduce/</loc>
+    <lastmod>2016-10-21T06:36:08.483Z</lastmod>
+    <data>
+        <display>
+        <title>zooKeeper-command-introduce</title>
+        <pubTime>2016-10-21T06:32:39.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/08/22/jquery-eval-paesing-json-introduce/</loc>
+    <lastmod>2016-10-21T06:32:27.641Z</lastmod>
+    <data>
+        <display>
+        <title>jquery eval解析JSON中的注意点介绍</title>
+        <pubTime>2016-08-22T10:51:02.000Z</pubTime>
+        
+        <tag>ajax</tag>
+         
+        <tag>JavaScript</tag>
+         
+        <tag>jquery</tag>
+         
+         
+           
+             
+              <breadCrumb title="ajax" url="http://code.skyheng.com/categories/ajax/"/>
+          
+             
+              <breadCrumb title="JavaScript" url="http://code.skyheng.com/categories/ajax/JavaScript/"/>
+          
+             
+              <breadCrumb title="jquery" url="http://code.skyheng.com/categories/ajax/JavaScript/jquery/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/10/20/zookeeper-install-and-setting/</loc>
+    <lastmod>2016-10-21T06:28:20.208Z</lastmod>
+    <data>
+        <display>
+        <title>zookeeper-install-and-setting</title>
+        <pubTime>2016-10-20T15:49:05.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/05/09/tomcat8-install-and-settings/</loc>
+    <lastmod>2016-10-20T16:53:22.763Z</lastmod>
+    <data>
+        <display>
+        <title>Tomcat 8 安装和配置、优化</title>
+        <pubTime>2016-05-09T15:37:27.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+        <tag>CentOS</tag>
+         
+        <tag>Tomcat</tag>
+         
+         
+           
+             
+              <breadCrumb title="linux" url="http://code.skyheng.com/categories/linux/"/>
+          
+             
+              <breadCrumb title="CentOS" url="http://code.skyheng.com/categories/linux/CentOS/"/>
+          
+             
+              <breadCrumb title="Tomcat" url="http://code.skyheng.com/categories/linux/CentOS/Tomcat/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/10/15/git-common-commands/</loc>
+    <lastmod>2016-10-20T15:54:32.195Z</lastmod>
+    <data>
+        <display>
+        <title>git-common-commands</title>
+        <pubTime>2016-10-15T05:48:28.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/10/15/windows-git-pull-bat/</loc>
+    <lastmod>2016-10-20T15:51:28.095Z</lastmod>
+    <data>
+        <display>
+        <title>Windows git pull 批处理</title>
+        <pubTime>2016-10-15T06:07:08.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+         
+           
+             
+              <breadCrumb title="git" url="http://code.skyheng.com/categories/git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/08/25/eclipse-install-jrebel/</loc>
+    <lastmod>2016-10-20T15:49:39.644Z</lastmod>
+    <data>
+        <display>
+        <title>eclipse安装JRebel6.4.8热部署插件教程</title>
+        <pubTime>2016-08-25T15:19:19.000Z</pubTime>
+        
+        <tag>eclipse</tag>
+         
+        <tag>JRebel</tag>
+         
+        <tag>开发工具</tag>
+         
+         
+           
+             
+              <breadCrumb title="eclipse" url="http://code.skyheng.com/categories/eclipse/"/>
+          
+             
+              <breadCrumb title="JRebel" url="http://code.skyheng.com/categories/eclipse/JRebel/"/>
+          
+             
+              <breadCrumb title="开发工具" url="http://code.skyheng.com/categories/eclipse/JRebel/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/10/20/maven-pro-collection/</loc>
+    <lastmod>2016-10-20T15:49:39.640Z</lastmod>
+    <data>
+        <display>
+        <title>收集的国内maven镜像地址</title>
+        <pubTime>2016-10-20T03:36:58.000Z</pubTime>
+        
+        <tag>maven</tag>
+         
+         
+           
+             
+              <breadCrumb title="maven" url="http://code.skyheng.com/categories/maven/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
     <loc>http://code.skyheng.com/2016/10/11/python-install/</loc>
-    <lastmod>2016-10-10T16:52:05.934Z</lastmod>
+    <lastmod>2016-10-20T15:49:36.789Z</lastmod>
     <data>
         <display>
         <title>python安装</title>
@@ -18,6 +234,30 @@
     </url>
 
     
+  <url>
+    <loc>http://code.skyheng.com/2016/05/16/vmware-set-centos-static-ip/</loc>
+    <lastmod>2016-10-16T11:28:06.752Z</lastmod>
+    <data>
+        <display>
+        <title>VMware中CentOS设置静态IP</title>
+        <pubTime>2016-05-16T09:58:27.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+        <tag>CentOS</tag>
+         
+         
+           
+             
+              <breadCrumb title="CentOS" url="http://code.skyheng.com/categories/CentOS/"/>
+          
+             
+              <breadCrumb title="linux" url="http://code.skyheng.com/categories/CentOS/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>http://code.skyheng.com/2016/10/09/rect-grid-demo/</loc>
@@ -168,31 +408,6 @@
 
     
   <url>
-    <loc>http://code.skyheng.com/2016/05/16/vmware-set-centos-static-ip/</loc>
-    <lastmod>2016-09-22T15:48:51.142Z</lastmod>
-    <data>
-        <display>
-        <title>VMware中CentOS设置静态IP</title>
-        <pubTime>2016-05-16T09:58:27.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-        <tag>CentOS</tag>
-         
-         
-           
-             
-              <breadCrumb title="CentOS" url="http://code.skyheng.com/categories/CentOS/"/>
-          
-             
-              <breadCrumb title="linux" url="http://code.skyheng.com/categories/CentOS/linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://code.skyheng.com/2016/08/02/common-hexo-commands/</loc>
     <lastmod>2016-09-22T15:48:43.239Z</lastmod>
     <data>
@@ -304,66 +519,6 @@
 
     
   <url>
-    <loc>http://code.skyheng.com/2016/08/22/jquery-eval-paesing-json-introduce/</loc>
-    <lastmod>2016-09-22T15:47:48.754Z</lastmod>
-    <data>
-        <display>
-        <title>jquery eval解析JSON中的注意点介绍</title>
-        <pubTime>2016-08-22T10:51:02.000Z</pubTime>
-        
-        <tag>ajax</tag>
-         
-        <tag>JavaScript</tag>
-         
-        <tag>jquery</tag>
-         
-         
-           
-             
-              <breadCrumb title="ajax" url="http://code.skyheng.com/categories/ajax/"/>
-          
-             
-              <breadCrumb title="JavaScript" url="http://code.skyheng.com/categories/ajax/JavaScript/"/>
-          
-             
-              <breadCrumb title="jquery" url="http://code.skyheng.com/categories/ajax/JavaScript/jquery/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://code.skyheng.com/2016/08/25/eclipse-install-jrebel/</loc>
-    <lastmod>2016-09-22T15:47:36.633Z</lastmod>
-    <data>
-        <display>
-        <title>eclipse安装JRebel6.4.8热部署插件教程</title>
-        <pubTime>2016-08-25T15:19:19.000Z</pubTime>
-        
-        <tag>eclipse</tag>
-         
-        <tag>JRebel</tag>
-         
-        <tag>开发工具</tag>
-         
-         
-           
-             
-              <breadCrumb title="eclipse" url="http://code.skyheng.com/categories/eclipse/"/>
-          
-             
-              <breadCrumb title="JRebel" url="http://code.skyheng.com/categories/eclipse/JRebel/"/>
-          
-             
-              <breadCrumb title="开发工具" url="http://code.skyheng.com/categories/eclipse/JRebel/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://code.skyheng.com/2016/04/17/jdk-install/</loc>
     <lastmod>2016-09-22T15:41:36.203Z</lastmod>
     <data>
@@ -457,31 +612,6 @@
            
              
               <breadCrumb title="SVN" url="http://code.skyheng.com/categories/SVN/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://code.skyheng.com/2016/07/21/improve-efficiency-database-query/</loc>
-    <lastmod>2016-08-25T13:42:44.217Z</lastmod>
-    <data>
-        <display>
-        <title>在一个千万级的数据库查寻中，如何提高查询效率？</title>
-        <pubTime>2016-07-21T14:39:51.000Z</pubTime>
-        
-        <tag>数据库</tag>
-         
-        <tag>SQL</tag>
-         
-         
-           
-             
-              <breadCrumb title="数据库" url="http://code.skyheng.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-          
-             
-              <breadCrumb title="SQL" url="http://code.skyheng.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL/"/>
           
         </display>
     </data>
@@ -698,36 +828,6 @@
           
              
               <breadCrumb title="Mysql" url="http://code.skyheng.com/categories/linux/Mysql/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://code.skyheng.com/2016/05/09/tomcat-install-and-settings/</loc>
-    <lastmod>2016-08-02T12:07:20.879Z</lastmod>
-    <data>
-        <display>
-        <title>Tomcat 8 安装和配置、优化</title>
-        <pubTime>2016-05-09T15:37:27.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-        <tag>CentOS</tag>
-         
-        <tag>Tomcat</tag>
-         
-         
-           
-             
-              <breadCrumb title="linux" url="http://code.skyheng.com/categories/linux/"/>
-          
-             
-              <breadCrumb title="CentOS" url="http://code.skyheng.com/categories/linux/CentOS/"/>
-          
-             
-              <breadCrumb title="Tomcat" url="http://code.skyheng.com/categories/linux/CentOS/Tomcat/"/>
           
         </display>
     </data>
