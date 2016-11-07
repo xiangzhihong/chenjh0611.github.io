@@ -4,15 +4,115 @@
 
     
   <url>
-    <loc>http://code.skyheng.com/2016/10/21/win10-shortcut-key/</loc>
-    <lastmod>2016-10-21T15:09:01.970Z</lastmod>
+    <loc>http://code.skyheng.com/2016/10/20/zookeeper-install-and-setting/</loc>
+    <lastmod>2016-11-07T15:22:52.867Z</lastmod>
     <data>
         <display>
-        <title>win10-shortcut-key</title>
+        <title>zookeeper的安装与设置</title>
+        <pubTime>2016-10-20T15:49:05.000Z</pubTime>
+        
+        <tag>zookeeper</tag>
+         
+         
+           
+             
+              <breadCrumb title="zookeeper" url="http://code.skyheng.com/categories/zookeeper/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/10/21/win10-shortcut-key/</loc>
+    <lastmod>2016-11-07T15:22:22.238Z</lastmod>
+    <data>
+        <display>
+        <title>win10常用的快捷键</title>
         <pubTime>2016-10-21T15:04:35.000Z</pubTime>
+        
+        <tag>win10</tag>
+         
+         
+           
+             
+              <breadCrumb title="win10" url="http://code.skyheng.com/categories/win10/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/10/21/zooKeeper-command-introduce/</loc>
+    <lastmod>2016-11-07T15:21:16.652Z</lastmod>
+    <data>
+        <display>
+        <title>zooKeeper常用命令介绍</title>
+        <pubTime>2016-10-21T06:32:39.000Z</pubTime>
+        
+        <tag>zooKeeper</tag>
+         
+         
+           
+             
+              <breadCrumb title="zooKeeper" url="http://code.skyheng.com/categories/zooKeeper/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/10/11/python-install/</loc>
+    <lastmod>2016-11-07T15:19:52.663Z</lastmod>
+    <data>
+        <display>
+        <title>python安装</title>
+        <pubTime>2016-10-10T16:31:13.000Z</pubTime>
         
          
            
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/10/15/git-common-commands/</loc>
+    <lastmod>2016-11-07T15:19:30.970Z</lastmod>
+    <data>
+        <display>
+        <title>Git常用的操作命令</title>
+        <pubTime>2016-10-15T05:48:28.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+         
+           
+             
+              <breadCrumb title="Git" url="http://code.skyheng.com/categories/Git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://code.skyheng.com/2016/10/20/maven-pro-collection/</loc>
+    <lastmod>2016-11-07T15:15:12.540Z</lastmod>
+    <data>
+        <display>
+        <title>收集的国内maven镜像地址</title>
+        <pubTime>2016-10-20T03:36:58.000Z</pubTime>
+        
+        <tag>maven</tag>
+         
+         
+           
+             
+              <breadCrumb title="maven" url="http://code.skyheng.com/categories/maven/"/>
+          
         </display>
     </data>
     </url>
@@ -38,21 +138,6 @@
              
               <breadCrumb title="SQL" url="http://code.skyheng.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL/"/>
           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://code.skyheng.com/2016/10/21/zooKeeper-command-introduce/</loc>
-    <lastmod>2016-10-21T06:36:08.483Z</lastmod>
-    <data>
-        <display>
-        <title>zooKeeper-command-introduce</title>
-        <pubTime>2016-10-21T06:32:39.000Z</pubTime>
-        
-         
-           
         </display>
     </data>
     </url>
@@ -89,21 +174,6 @@
 
     
   <url>
-    <loc>http://code.skyheng.com/2016/10/20/zookeeper-install-and-setting/</loc>
-    <lastmod>2016-10-21T06:28:20.208Z</lastmod>
-    <data>
-        <display>
-        <title>zookeeper-install-and-setting</title>
-        <pubTime>2016-10-20T15:49:05.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://code.skyheng.com/2016/05/09/tomcat8-install-and-settings/</loc>
     <lastmod>2016-10-20T16:53:22.763Z</lastmod>
     <data>
@@ -128,21 +198,6 @@
              
               <breadCrumb title="Tomcat" url="http://code.skyheng.com/categories/linux/CentOS/Tomcat/"/>
           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://code.skyheng.com/2016/10/15/git-common-commands/</loc>
-    <lastmod>2016-10-20T15:54:32.195Z</lastmod>
-    <data>
-        <display>
-        <title>git-common-commands</title>
-        <pubTime>2016-10-15T05:48:28.000Z</pubTime>
-        
-         
-           
         </display>
     </data>
     </url>
@@ -198,41 +253,6 @@
     </url>
 
     
-  <url>
-    <loc>http://code.skyheng.com/2016/10/20/maven-pro-collection/</loc>
-    <lastmod>2016-10-20T15:49:39.640Z</lastmod>
-    <data>
-        <display>
-        <title>收集的国内maven镜像地址</title>
-        <pubTime>2016-10-20T03:36:58.000Z</pubTime>
-        
-        <tag>maven</tag>
-         
-         
-           
-             
-              <breadCrumb title="maven" url="http://code.skyheng.com/categories/maven/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-  <url>
-    <loc>http://code.skyheng.com/2016/10/11/python-install/</loc>
-    <lastmod>2016-10-20T15:49:36.789Z</lastmod>
-    <data>
-        <display>
-        <title>python安装</title>
-        <pubTime>2016-10-10T16:31:13.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
     
   <url>
     <loc>http://code.skyheng.com/2016/05/16/vmware-set-centos-static-ip/</loc>
