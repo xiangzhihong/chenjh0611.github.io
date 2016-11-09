@@ -4511,6 +4511,12 @@ padding: 0;
     </entry>
     
     <entry>
+      <title><![CDATA[categories]]></title>
+      <url>http://code.skyheng.com/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[关于我]]></title>
       <url>http://code.skyheng.com/about/index.html</url>
       <content type="html"><![CDATA[<p><style type="text/css"><br>    strong a {<br>        color: #747474;<br>    }<br>    .player {<br>        text-align: center;<br>        margin: .5em auto 0;<br>        width: 100%;<br>        max-width: 22em;<br>    }<br>    .player br {<br>        display: none;<br>    }<br>    .sign {<br>        text-align: right;<br>        font-style: italic;<br>    }</p>
@@ -4784,14 +4790,93 @@ padding: 0;
     </entry>
     
     <entry>
-      <title><![CDATA[分类 & 标签]]></title>
-      <url>http://code.skyheng.com/tags/index.html</url>
-      <content type="html"></content>
+      <title><![CDATA[友情链接]]></title>
+      <url>http://code.skyheng.com/links/index.html</url>
+      <content type="html"><![CDATA[<p>&#x3000;&#x3000;<strong>&#x672C;&#x9875;&#x9762;&#x8BB0;&#x5F55;&#x4E00;&#x4E9B;&#x5728;&#x5DE5;&#x4F5C;&#x53CA;&#x5B66;&#x4E60;&#x8FC7;&#x7A0B;&#x9047;&#x5230;&#x7684;&#x4E00;&#x4E9B;Github&#x5730;&#x5740;&#x3001;&#x535A;&#x5BA2;&#x53CA;&#x535A;&#x6587;&#x94FE;&#x63A5;&#xFF0C;&#x4EE5;&#x5907;&#x5728;&#x65E5;&#x540E;&#x9700;&#x8981;&#x7684;&#x65F6;&#x5019;&#x80FD;&#x591F;&#x5FEB;&#x901F;&#x627E;&#x5230;</strong></p>
+<p class="sign"><span>&#x2014;&#x2014;</span> skyheng, 2016&#x5E74;10&#x6708;09&#x65E5;</p>
+
+<h3 id="&#x535A;&#x5BA2;&#x5730;&#x5740;&#xFF1A;"><a href="#&#x535A;&#x5BA2;&#x5730;&#x5740;&#xFF1A;" class="headerlink" title="&#x535A;&#x5BA2;&#x5730;&#x5740;&#xFF1A;"></a>&#x535A;&#x5BA2;&#x5730;&#x5740;&#xFF1A;</h3><ul>
+<li><a href="http://mazhuang.org/" target="_blank" rel="external">http://mazhuang.org/</a></li>
+<li><a href="http://justjavac.com/" target="_blank" rel="external">justjavac(&#x8FF7;&#x6E21;)&#x7684;&#x535A;&#x5BA2;</a></li>
+<li><p>&#x57F9;&#x8C6A;&#x7684;&#x535A;&#x5BA2;</p>
+<ul>
+<li>&#x535A;&#x5BA2;&#x5730;&#x5740;&#xFF1A;<a href="http://peihao.space/" target="_blank" rel="external">http://peihao.space/</a></li>
+<li>&#x672C;&#x535A;&#x5BA2;Github&#xFF1A;<a href="https://github.com/chuangwailinjie/chuangwailinjie.github.io" target="_blank" rel="external">https://github.com/chuangwailinjie/chuangwailinjie.github.io</a> </li>
+<li>&#x672C;&#x535A;&#x5BA2;&#x4ED3;&#x5E93;&#xFF1A;<a href="https://github.com/chuangwailinjie/chuangwailinjie.github.io/tree/source-code" target="_blank" rel="external">https://github.com/chuangwailinjie/chuangwailinjie.github.io/tree/source-code</a></li>
+</ul>
+</li>
+<li><p>&#x90A3;&#x65F6;&#x5019;&#x7684;&#x6211;</p>
+<ul>
+<li>&#x535A;&#x5BA2;&#x5730;&#x5740;&#xFF1A;<a href="http://zlwis.me/" target="_blank" rel="external">http://zlwis.me/</a></li>
+<li>&#x672C;&#x535A;&#x5BA2;Github&#xFF1A;<a href="https://github.com/luckykun/luckykun.github.io" target="_blank" rel="external">https://github.com/luckykun/luckykun.github.io</a> </li>
+<li>&#x672C;&#x535A;&#x5BA2;&#x4ED3;&#x5E93;&#xFF1A;<a href="https://github.com/luckykun/blog-back-up" target="_blank" rel="external">https://github.com/luckykun/blog-back-up</a></li>
+</ul>
+</li>
+<li><p>luckykun-&#x4E0D;&#x4E00;&#x6837;&#x7684;&#x4E16;&#x754C;</p>
+<ul>
+<li>&#x535A;&#x5BA2;&#x5730;&#x5740;&#xFF1A;<a href="http://luckykun.com/" target="_blank" rel="external">http://luckykun.com/</a></li>
+<li>&#x672C;&#x535A;&#x5BA2;Github&#xFF1A;<a href="https://github.com/lwzhang/lwzhang.github.io" target="_blank" rel="external">https://github.com/lwzhang/lwzhang.github.io</a> </li>
+<li>&#x672C;&#x535A;&#x5BA2;&#x4ED3;&#x5E93;&#xFF1A;<a href="https://github.com/lwzhang/blog.git" target="_blank" rel="external">https://github.com/lwzhang/blog.git</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><p>Get&#x793E;&#x533A;&#xFF1A;<a href="http://get.ftqq.com/" target="_blank" rel="external">http://get.ftqq.com/</a>  &#x53EF;&#x4F7F;&#x7528;&#x5FAE;&#x535A;&#x4E00;&#x952E;&#x767B;&#x5F55;</p>
+</li>
+<li><p>tanteng.me&#xFF1A;<a href="https://www.tanteng.me/" target="_blank" rel="external">https://www.tanteng.me/</a></p>
+</li>
+<li>KL&#x535A;&#x5BA2;&#xFF1A;<a href="http://www.kailing.pub/" target="_blank" rel="external">http://www.kailing.pub/</a></li>
+</ul>
+<h3 id="&#x535A;&#x6587;&#x5730;&#x5740;&#xFF1A;"><a href="#&#x535A;&#x6587;&#x5730;&#x5740;&#xFF1A;" class="headerlink" title="&#x535A;&#x6587;&#x5730;&#x5740;&#xFF1A;"></a>&#x535A;&#x6587;&#x5730;&#x5740;&#xFF1A;</h3><ul>
+<li>hexo&#x4E3B;&#x9898;&#x4E2D;&#x6DFB;&#x52A0;&#x76F8;&#x518C;&#x529F;&#x80FD;&#xFF1A;<a href="http://zlwis.me/2016/01/17/hexo%E4%B8%BB%E9%A2%98%E4%B8%AD%E6%B7%BB%E5%8A%A0%E7%9B%B8%E5%86%8C%E5%8A%9F%E8%83%BD/" target="_blank" rel="external">http://zlwis.me/2016/01/17/hexo%E4%B8%BB%E9%A2%98%E4%B8%AD%E6%B7%BB%E5%8A%A0%E7%9B%B8%E5%86%8C%E5%8A%9F%E8%83%BD/</a></li>
+<li>&#x4F7F;&#x7528;&#x4E03;&#x725B;&#x4E3A;Hexo&#x5B58;&#x50A8;&#x56FE;&#x7247;&#xFF1A;<a href="http://blog.shiqichan.com/use-qiniu-store-image-for-hexo/" target="_blank" rel="external">http://blog.shiqichan.com/use-qiniu-store-image-for-hexo/</a></li>
+<li>Hexo&#x4E3B;&#x9898;&#x4E2D;&#x6DFB;&#x52A0;&#x65E5;&#x5386;&#x4E91;&#x529F;&#x80FD;&#xFF1A;<a href="http://www.jianshu.com/p/b9665a8e8282" target="_blank" rel="external">http://www.jianshu.com/p/b9665a8e8282</a></li>
+</ul>
+<h3 id="Github&#x5730;&#x5740;&#xFF1A;"><a href="#Github&#x5730;&#x5740;&#xFF1A;" class="headerlink" title="Github&#x5730;&#x5740;&#xFF1A;"></a>Github&#x5730;&#x5740;&#xFF1A;</h3><p><a href="https://github.com/justjavac" target="_blank" rel="external">justjavac (&#x8FF7;&#x6E21;)</a></p>
+<h3 id="&#x5DE5;&#x5177;&#x7BB1;&#x5730;&#x5740;&#xFF1A;"><a href="#&#x5DE5;&#x5177;&#x7BB1;&#x5730;&#x5740;&#xFF1A;" class="headerlink" title="&#x5DE5;&#x5177;&#x7BB1;&#x5730;&#x5740;&#xFF1A;"></a>&#x5DE5;&#x5177;&#x7BB1;&#x5730;&#x5740;&#xFF1A;</h3><style type="text/css">
+    strong a {
+        color: #747474;
+    }
+    .player {
+        text-align: center;
+        margin: .5em auto 0;
+        width: 100%;
+        max-width: 22em;
+    }
+    .player br {
+        display: none;
+    }
+    .sign {
+        text-align: right;
+        font-style: italic;
+    }
+    #ds-recent-visitors {
+        margin: 0;
+        padding: 0;
+    }
+    #ds-recent-visitors div img {
+        display: inline-block !important;
+        width: 56px !important;
+        height: 56px !important;
+        border-radius: 50%;
+        border: 1px solid #ddd;
+        padding: 2px;
+    }
+    .article-entry img:first-child {
+        display: block;
+    }
+    .article-entry span {
+        font-family: Arial;
+    }
+    #ds-hot-posts {
+        display: none;
+    }
+</style>]]></content>
     </entry>
     
     <entry>
-      <title><![CDATA[categories]]></title>
-      <url>http://code.skyheng.com/categories/index.html</url>
+      <title><![CDATA[分类 & 标签]]></title>
+      <url>http://code.skyheng.com/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
@@ -4885,91 +4970,6 @@ fs.readdir(path, function (err, files) {
 <li>&#x7B80;&#x5386;&#x6A21;&#x677F;&#xFF1A;<a href="https://github.com/geekcompany/ResumeSample" target="_blank" rel="external">https://github.com/geekcompany/ResumeSample</a></li>
 </ol>
 ]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[友情链接]]></title>
-      <url>http://code.skyheng.com/links/index.html</url>
-      <content type="html"><![CDATA[<p>&#x3000;&#x3000;<strong>&#x672C;&#x9875;&#x9762;&#x8BB0;&#x5F55;&#x4E00;&#x4E9B;&#x5728;&#x5DE5;&#x4F5C;&#x53CA;&#x5B66;&#x4E60;&#x8FC7;&#x7A0B;&#x9047;&#x5230;&#x7684;&#x4E00;&#x4E9B;Github&#x5730;&#x5740;&#x3001;&#x535A;&#x5BA2;&#x53CA;&#x535A;&#x6587;&#x94FE;&#x63A5;&#xFF0C;&#x4EE5;&#x5907;&#x5728;&#x65E5;&#x540E;&#x9700;&#x8981;&#x7684;&#x65F6;&#x5019;&#x80FD;&#x591F;&#x5FEB;&#x901F;&#x627E;&#x5230;</strong></p>
-<p class="sign"><span>&#x2014;&#x2014;</span> skyheng, 2016&#x5E74;10&#x6708;09&#x65E5;</p>
-
-<h3 id="&#x535A;&#x5BA2;&#x5730;&#x5740;&#xFF1A;"><a href="#&#x535A;&#x5BA2;&#x5730;&#x5740;&#xFF1A;" class="headerlink" title="&#x535A;&#x5BA2;&#x5730;&#x5740;&#xFF1A;"></a>&#x535A;&#x5BA2;&#x5730;&#x5740;&#xFF1A;</h3><ul>
-<li><a href="http://mazhuang.org/" target="_blank" rel="external">http://mazhuang.org/</a></li>
-<li><a href="http://justjavac.com/" target="_blank" rel="external">justjavac(&#x8FF7;&#x6E21;)&#x7684;&#x535A;&#x5BA2;</a></li>
-<li><p>&#x57F9;&#x8C6A;&#x7684;&#x535A;&#x5BA2;</p>
-<ul>
-<li>&#x535A;&#x5BA2;&#x5730;&#x5740;&#xFF1A;<a href="http://peihao.space/" target="_blank" rel="external">http://peihao.space/</a></li>
-<li>&#x672C;&#x535A;&#x5BA2;Github&#xFF1A;<a href="https://github.com/chuangwailinjie/chuangwailinjie.github.io" target="_blank" rel="external">https://github.com/chuangwailinjie/chuangwailinjie.github.io</a> </li>
-<li>&#x672C;&#x535A;&#x5BA2;&#x4ED3;&#x5E93;&#xFF1A;<a href="https://github.com/chuangwailinjie/chuangwailinjie.github.io/tree/source-code" target="_blank" rel="external">https://github.com/chuangwailinjie/chuangwailinjie.github.io/tree/source-code</a></li>
-</ul>
-</li>
-<li><p>&#x90A3;&#x65F6;&#x5019;&#x7684;&#x6211;</p>
-<ul>
-<li>&#x535A;&#x5BA2;&#x5730;&#x5740;&#xFF1A;<a href="http://zlwis.me/" target="_blank" rel="external">http://zlwis.me/</a></li>
-<li>&#x672C;&#x535A;&#x5BA2;Github&#xFF1A;<a href="https://github.com/luckykun/luckykun.github.io" target="_blank" rel="external">https://github.com/luckykun/luckykun.github.io</a> </li>
-<li>&#x672C;&#x535A;&#x5BA2;&#x4ED3;&#x5E93;&#xFF1A;<a href="https://github.com/luckykun/blog-back-up" target="_blank" rel="external">https://github.com/luckykun/blog-back-up</a></li>
-</ul>
-</li>
-<li><p>luckykun-&#x4E0D;&#x4E00;&#x6837;&#x7684;&#x4E16;&#x754C;</p>
-<ul>
-<li>&#x535A;&#x5BA2;&#x5730;&#x5740;&#xFF1A;<a href="http://luckykun.com/" target="_blank" rel="external">http://luckykun.com/</a></li>
-<li>&#x672C;&#x535A;&#x5BA2;Github&#xFF1A;<a href="https://github.com/lwzhang/lwzhang.github.io" target="_blank" rel="external">https://github.com/lwzhang/lwzhang.github.io</a> </li>
-<li>&#x672C;&#x535A;&#x5BA2;&#x4ED3;&#x5E93;&#xFF1A;<a href="https://github.com/lwzhang/blog.git" target="_blank" rel="external">https://github.com/lwzhang/blog.git</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li><p>Get&#x793E;&#x533A;&#xFF1A;<a href="http://get.ftqq.com/" target="_blank" rel="external">http://get.ftqq.com/</a>  &#x53EF;&#x4F7F;&#x7528;&#x5FAE;&#x535A;&#x4E00;&#x952E;&#x767B;&#x5F55;</p>
-</li>
-<li><p>tanteng.me&#xFF1A;<a href="https://www.tanteng.me/" target="_blank" rel="external">https://www.tanteng.me/</a></p>
-</li>
-<li>KL&#x535A;&#x5BA2;&#xFF1A;<a href="http://www.kailing.pub/" target="_blank" rel="external">http://www.kailing.pub/</a></li>
-</ul>
-<h3 id="&#x535A;&#x6587;&#x5730;&#x5740;&#xFF1A;"><a href="#&#x535A;&#x6587;&#x5730;&#x5740;&#xFF1A;" class="headerlink" title="&#x535A;&#x6587;&#x5730;&#x5740;&#xFF1A;"></a>&#x535A;&#x6587;&#x5730;&#x5740;&#xFF1A;</h3><ul>
-<li>hexo&#x4E3B;&#x9898;&#x4E2D;&#x6DFB;&#x52A0;&#x76F8;&#x518C;&#x529F;&#x80FD;&#xFF1A;<a href="http://zlwis.me/2016/01/17/hexo%E4%B8%BB%E9%A2%98%E4%B8%AD%E6%B7%BB%E5%8A%A0%E7%9B%B8%E5%86%8C%E5%8A%9F%E8%83%BD/" target="_blank" rel="external">http://zlwis.me/2016/01/17/hexo%E4%B8%BB%E9%A2%98%E4%B8%AD%E6%B7%BB%E5%8A%A0%E7%9B%B8%E5%86%8C%E5%8A%9F%E8%83%BD/</a></li>
-<li>&#x4F7F;&#x7528;&#x4E03;&#x725B;&#x4E3A;Hexo&#x5B58;&#x50A8;&#x56FE;&#x7247;&#xFF1A;<a href="http://blog.shiqichan.com/use-qiniu-store-image-for-hexo/" target="_blank" rel="external">http://blog.shiqichan.com/use-qiniu-store-image-for-hexo/</a></li>
-<li>Hexo&#x4E3B;&#x9898;&#x4E2D;&#x6DFB;&#x52A0;&#x65E5;&#x5386;&#x4E91;&#x529F;&#x80FD;&#xFF1A;<a href="http://www.jianshu.com/p/b9665a8e8282" target="_blank" rel="external">http://www.jianshu.com/p/b9665a8e8282</a></li>
-</ul>
-<h3 id="Github&#x5730;&#x5740;&#xFF1A;"><a href="#Github&#x5730;&#x5740;&#xFF1A;" class="headerlink" title="Github&#x5730;&#x5740;&#xFF1A;"></a>Github&#x5730;&#x5740;&#xFF1A;</h3><p><a href="https://github.com/justjavac" target="_blank" rel="external">justjavac (&#x8FF7;&#x6E21;)</a></p>
-<h3 id="&#x5DE5;&#x5177;&#x7BB1;&#x5730;&#x5740;&#xFF1A;"><a href="#&#x5DE5;&#x5177;&#x7BB1;&#x5730;&#x5740;&#xFF1A;" class="headerlink" title="&#x5DE5;&#x5177;&#x7BB1;&#x5730;&#x5740;&#xFF1A;"></a>&#x5DE5;&#x5177;&#x7BB1;&#x5730;&#x5740;&#xFF1A;</h3><style type="text/css">
-    strong a {
-        color: #747474;
-    }
-    .player {
-        text-align: center;
-        margin: .5em auto 0;
-        width: 100%;
-        max-width: 22em;
-    }
-    .player br {
-        display: none;
-    }
-    .sign {
-        text-align: right;
-        font-style: italic;
-    }
-    #ds-recent-visitors {
-        margin: 0;
-        padding: 0;
-    }
-    #ds-recent-visitors div img {
-        display: inline-block !important;
-        width: 56px !important;
-        height: 56px !important;
-        border-radius: 50%;
-        border: 1px solid #ddd;
-        padding: 2px;
-    }
-    .article-entry img:first-child {
-        display: block;
-    }
-    .article-entry span {
-        font-family: Arial;
-    }
-    #ds-hot-posts {
-        display: none;
-    }
-</style>]]></content>
     </entry>
     
   
