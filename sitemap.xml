@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://code.skyheng.com/toolbox/index.html</loc>
+    
+    <lastmod>2016-11-26T12:22:40.270Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://code.skyheng.com/2016/10/20/zookeeper-install-and-setting/</loc>
     
     <lastmod>2016-11-07T15:22:52.867Z</lastmod>
@@ -128,9 +135,9 @@
   </url>
   
   <url>
-    <loc>http://code.skyheng.com/toolbox/index.html</loc>
+    <loc>http://code.skyheng.com/2016/08/01/common-software-download-address/</loc>
     
-    <lastmod>2016-10-09T14:18:44.539Z</lastmod>
+    <lastmod>2016-10-08T12:38:03.817Z</lastmod>
     
   </url>
   
